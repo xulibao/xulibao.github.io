@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hux Blog</title>
+    <title>Libao Blog</title>
     <description>关于前端与设计、黑客与画家 | 黄玄，Web &amp; Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。</description>
-    <link>http://huangxuan.me/</link>
-    <atom:link href="http://huangxuan.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 18 Nov 2015 09:50:43 +0800</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2015 09:50:43 +0800</lastBuildDate>
+    <link>http://devxulibao.com/</link>
+    <atom:link href="http://devxulibao.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 18 Nov 2015 17:03:51 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2015 17:03:51 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -74,8 +74,8 @@
 
 </description>
         <pubDate>Tue, 22 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/09/22/js-version/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/09/22/js-version/</guid>
+        <link>http://devxulibao.com/2015/09/22/js-version/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/09/22/js-version/</guid>
         
         <category>前端开发</category>
         
@@ -121,8 +121,8 @@
 &lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/07/09/js-module-7day/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/07/09/js-module-7day/</guid>
+        <link>http://devxulibao.com/2015/07/09/js-module-7day/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/07/09/js-module-7day/</guid>
         
         <category>前端开发</category>
         
@@ -363,8 +363,8 @@ BAT 纷纷介入，行业进入了传说中的 BATX 格局：&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 15 Jun 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/06/15/alitrip-strategy/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/06/15/alitrip-strategy/</guid>
+        <link>http://devxulibao.com/2015/06/15/alitrip-strategy/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/06/15/alitrip-strategy/</guid>
         
         <category>产品设计</category>
         
@@ -682,8 +682,8 @@ define(function(require, exports, module) {
 
 </description>
         <pubDate>Mon, 25 May 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/05/25/js-module-loader/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/05/25/js-module-loader/</guid>
+        <link>http://devxulibao.com/2015/05/25/js-module-loader/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/05/25/js-module-loader/</guid>
         
         <category>前端开发</category>
         
@@ -799,8 +799,8 @@ define(function(require, exports, module) {
 &lt;p&gt;&lt;img src=&quot;/img/in-post/post-c-u-ali-079717.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/05/11/see-u-ali/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/05/11/see-u-ali/</guid>
+        <link>http://devxulibao.com/2015/05/11/see-u-ali/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/05/11/see-u-ali/</guid>
         
         <category>生活</category>
         
@@ -918,8 +918,8 @@ define(function(require, exports, module) {
 
 </description>
         <pubDate>Wed, 15 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/04/15/os-metro/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/04/15/os-metro/</guid>
+        <link>http://devxulibao.com/2015/04/15/os-metro/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/04/15/os-metro/</guid>
         
         <category>hUX 随想录</category>
         
@@ -1213,8 +1213,8 @@ Android’s source code is released by Google under open source licenses, althou
 
 </description>
         <pubDate>Tue, 14 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/04/14/unix-linux-note/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/04/14/unix-linux-note/</guid>
+        <link>http://devxulibao.com/2015/04/14/unix-linux-note/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/04/14/unix-linux-note/</guid>
         
         <category>OS</category>
         
@@ -1293,8 +1293,8 @@ Android’s source code is released by Google under open source licenses, althou
 
 </description>
         <pubDate>Tue, 31 Mar 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/03/31/e2e_user_scenarios/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/03/31/e2e_user_scenarios/</guid>
+        <link>http://devxulibao.com/2015/03/31/e2e_user_scenarios/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/03/31/e2e_user_scenarios/</guid>
         
         <category>交互设计</category>
         
@@ -1424,8 +1424,8 @@ Kant 给你发了一个红包
 
 </description>
         <pubDate>Wed, 25 Mar 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/03/25/digital-native/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/03/25/digital-native/</guid>
+        <link>http://devxulibao.com/2015/03/25/digital-native/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/03/25/digital-native/</guid>
         
         <category>hUX 随想录</category>
         
@@ -1494,8 +1494,8 @@ Kant 给你发了一个红包
 
 </description>
         <pubDate>Tue, 10 Mar 2015 20:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/03/10/apple-event-2015/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/03/10/apple-event-2015/</guid>
+        <link>http://devxulibao.com/2015/03/10/apple-event-2015/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/03/10/apple-event-2015/</guid>
         
         <category>知乎</category>
         
