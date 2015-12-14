@@ -3,7 +3,7 @@ layout:     post
 title:      "「知乎」如何评价 2015 年 3 月 9 日 Apple 春季发布会？"
 subtitle:   "聊聊科技与新式奢侈品"
 date:       2015-03-10 12:00:00
-author:     "Hux"
+author:     "Xulibao"
 header-img: "img/post-bg-apple-event-2015.jpg"
 tags:
     - 知乎
@@ -12,9 +12,6 @@ tags:
     - Macbook
     - Apple Watch
 ---
-
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/28617408/answer/41626694)
-
 
 <div>
     <blockquote>一个 gay，一个 gay-like ，带着 Apple 向着<b>新式奢侈品</b>的方向飞去了。</blockquote>
@@ -62,7 +59,6 @@ tags:
     <br>
     <br>
     <p>
-    <b>破 200 赞，感谢下对时尚业颇有研究的女友对我的影响<a data-hash="8ffb556cbebb0cfe22aa194ff89b635d" href="http://www.zhihu.com/people/8ffb556cbebb0cfe22aa194ff89b635d" class="member_mention" data-editable="true" data-title="@肖玉" data-tip="p$b$8ffb556cbebb0cfe22aa194ff89b635d"> @肖玉</a></b>
     </p>
 </div>
 
