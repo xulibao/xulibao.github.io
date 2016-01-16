@@ -2,8 +2,8 @@
 layout:     post
 title:      "Definition of End to End User Scenarios"
 subtitle:   "Paper wrote on my birthday"
-date:       2015-03-31 
-author:     "Hux"
+date:       2015-11-21 
+author:     "Libao"
 header-img: "img/post-bg-e2e-ux.jpg"
 tags:
     - 交互设计

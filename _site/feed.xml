@@ -5,23 +5,775 @@
     <description>关于前端与设计、黑客与画家 | 黄玄，Web &amp; Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。</description>
     <link>http://devxulibao.com/</link>
     <atom:link href="http://devxulibao.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Dec 2015 23:12:04 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Dec 2015 23:12:04 +0800</lastBuildDate>
+    <pubDate>Sat, 16 Jan 2016 16:42:36 +0800</pubDate>
+    <lastBuildDate>Sat, 16 Jan 2016 16:42:36 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Hello 2015</title>
+        <title>to-my-love</title>
+        <description>&lt;p&gt;祝远在南京的你 生日快乐！&lt;/p&gt;
+
+&lt;p&gt;总是会去YY以后在一起的日子会有多幸福，而在此之前，所能做的只是努力努力再努力。&lt;/p&gt;
+
+&lt;p&gt;一起为了我们的未来而努力拼搏吧。&lt;/p&gt;
+
+&lt;p&gt;祝你生日快乐^_^&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://callmewhy.qiniudn.com/hh.JPG&quot; alt=&quot;&quot; /&gt;—&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Jan 2016 20:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2016/01/05/miui6/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2016/01/05/miui6/</guid>
+        
+        <category>最爱</category>
+        
+        <category>的你</category>
+        
+        <category>生日</category>
+        
+        <category>快乐</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello 2016</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;””&lt;br /&gt;
+## 前言&lt;br /&gt;
+2015就这样过去了，我想聊一聊这一年的收获和感想。很感谢在这一年陪我一起学习进步的小伙伴们。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;学习&lt;/h2&gt;
+
+&lt;p&gt;这一年的时间里，我感觉收获最大的地方就是学习了。并不是学习给我带来了什么，而是学习方法本身的收获。之前对很多问题总是避之不见，就是像我下面要说的伸手党。好吧，可以说任何职业可以孰能生巧，但是冒尖的一定是那些会自主学习，自己探索的。多说一句，想法是建立在思考上的。常年不会思考的人一个很棒的想法不会光顾在你身上的。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;掌握属于自己的学习方法，循序渐进提高效率。&lt;/li&gt;
+  &lt;li&gt;静下心来学习，戒骄戒躁，专注与技术本身。&lt;/li&gt;
+  &lt;li&gt;有自己的职业规划，清楚自己需要什么在做什么。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;对于我而言，学习分为三个过程：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;大量阅读&lt;/li&gt;
+  &lt;li&gt;整理消化&lt;/li&gt;
+  &lt;li&gt;乐于分享&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;大量阅读&lt;/h3&gt;
+
+&lt;p&gt;第一步是大量阅读。&lt;/p&gt;
+
+&lt;p&gt;充分保证阅读量是高效学习的前提，而阅读量主要取决于以下方面：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;信息来源：有哪些渠道来收集信息&lt;/li&gt;
+  &lt;li&gt;关注焦点：大量的信息里如何取舍&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我的阅读来源主要是（排名有先后）：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;RSS：订阅了很多博客，以前主要是 iOS ，现在主要是前端。好处是可以第一时间获取到最新的博客分享，而且不会遗漏。一般我只在 Mac 上用 Reeder 处理订阅的内容，方便归档整理。订阅列表会定期同步到 Gist 上。&lt;/li&gt;
+  &lt;li&gt;周报：邮箱里订阅了很多技术周报，比如 Swift Sandbox 、iOS Dev Weekly 等等，周报可以起到一个查漏补缺的作用，因为这是其他开发者手机整理的，如果发现有好的博客则可以整理到自己的 RSS 里方便以后长期关注。&lt;/li&gt;
+  &lt;li&gt;微博：前面两个信息来源都是自己主动订阅的，可以保证质量但是并不能保证阅读的广度。我的微博里有一个专门的 Learn 分组，里面存放了近两百个质量比较高的微博帐号，可以及时看到一些微博上的技术分享，这个分组里的微博是每天每条必读的。看到不错的内容会收藏，然后每周清理微博里的收藏。&lt;/li&gt;
+  &lt;li&gt;其他：其他就比较杂了，比如社交平台（GitHub 、Twitter）、比如资讯网站（Hacker News、Product Hunt）、比如技术论坛（cnode.org、div.io），等等。还有各种杂七杂八的技术分享、微信订阅号的各种日报周报、不定时地看一些 TED 视频之类的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我关注的内容很杂，前端、iOS、设计、语言等诸多方面都会看一下，并不说有那么多时间去关注这么多内容，而是相比于其他过程，信息收集的过程成本很低。在收集的过程中多关注一些东西，以后在需要的时候很容易就会联想到自己在这方面的知识储备。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;整理消化&lt;/h3&gt;
+
+&lt;p&gt;有了大量的信息输入之后，接下来就是整理和消化。&lt;/p&gt;
+
+&lt;p&gt;我一般会把所有的资料都整理到 Pocket 里，以前还会打个 tag 标记一下关键词，后来发现并没有打 tag 的必要，反正看了标题也就知道是什么内容了，而且有时候会在打什么 tag 上纠结很久，比如《如何使用 Swift+NodeJS+Nginx 搭建属于自己的 RESTFul API》，你说这是属于 iOS 还是 Web 还是 Swift 还是 RESTFul 呢？尴尬，干脆不打。&lt;/p&gt;
+
+&lt;p&gt;然后就遇到了一个问题：每天会有将近百篇新文章输入，而我并没有那么多时间阅读。所以现在屯了一千多篇未读的文章。这是个问题呐，收集起来虽然成本不高，但是总是堆在那里也是碍事啊。于是早晨的地铁我会尽量浏览我攒下的文章，不必要都仔细看，留有一个印象，遇到感兴趣的或者特别好的我会记着。晚上下班回家我会选择拥堵最厉害的公交车，有时候能堵上两个小时（北京的交通你懂的），车上的时候正好可以看很多东西，有一段时候我会每天晚上把电脑都带在身上，在公交上浏览一些我的Git上拉的很多大牛推荐的优秀源码。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;乐于分享&lt;/h3&gt;
+
+&lt;p&gt;博客是一种很好的记录方式:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;方便总结：可以把自己阶段性的教训和经验详细记录下来，总结的过程也就是整理和思考的过程。&lt;/li&gt;
+  &lt;li&gt;方便回顾：以后再遇到类似的问题可以很快找到自己当初的总结，翻翻笔记就可以快速进入状态。&lt;/li&gt;
+  &lt;li&gt;方便交流：最大的好处就是可以和其他人一起讨论，别人的疑惑和经验有利于更深入的思考问题。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;除了博客，这一年还参与了各种技术分享会。线下技术分享，基本是各取所需，不要指望『听君一席话，胜读十年书』这种速成，有所启发就足够了。像 QCon 和 CFF 在会后都有视频，感觉比线下听更有效率。我比较热衷与参加技术分享倒不是希望学到什么（感觉技术分享上听到的内容基本博客里都写遍了），而是喜欢一群人一起讨论自己所热爱的东西，比如 Swift ，比如 FRP ，比如 Docker 。说直白点其实就是去找归属感。在这个三十分钟精通 C++ 二十天速成 iOS 每个人都想着年薪百万的时代里，有一群纯粹的热爱技术的程序员兴高采烈地分享自己所热爱的东西，是多么幸福的一件事。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;保持专注&lt;/h3&gt;
+
+&lt;p&gt;这个单独拎出来，因为它很！重！要！很多人遇到个什么问题就火急火燎的去请教别人，『请问大神这个怎么办？』，『请问大神怎么才能这样？』。这样的结果往往是单纯的解决问题，对自己却没有任何提高。『是啊，没有提高！』于是有人又要火急火燎的问，『然后没有提高怎么办？』。&lt;/p&gt;
+
+&lt;p&gt;怎么办个屁啊！&lt;/p&gt;
+
+&lt;p&gt;搬个凳子，坐下来，歇着。静静的思考自己遇到的问题，需要解决什么，如何解决，有哪些方案，怎样效率最高，下一步该怎么做。都想清楚了，再去回想前面自己的问题。比如如何用 NodeJS 写爬虫，如果连爬虫是什么都不清楚就到处提问『如何使用 NodeJS 写爬虫』，怎么可能解决问题？&lt;/p&gt;
+
+&lt;p&gt;授人以鱼不如授人以渔。我呼吁各位，再遇到伸手党，可以告诉他 Google 的正确打开方式。&lt;/p&gt;
+
+&lt;p&gt;如果在群里遇到执迷不悟的伸手党，请这样做。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;大喊：蜀将安在！&lt;/li&gt;
+  &lt;li&gt;找个托呼应：末将在！&lt;/li&gt;
+  &lt;li&gt;大喊：大刑伺候！&lt;/li&gt;
+  &lt;li&gt;祭出下图：&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/61d238c7gw1ez47jpma7lj207d0byt9d.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;再来说下专注。这里的专注，是指专注于思考问题本身，而不是想着怎么样尽快解决问题。为什么遇到问题去请教别人总能解决？并不是因为别人天生比你厉害多少，很大一部分原因是因为你在到处求解答求帮忙的时候，别人在静静的写代码。工作业务很繁忙，人际关系很复杂，但是一定要专注自己想要做的东西。如果想做一名优秀的开发者，那就专注技术本身；如果想做一个熟练的伸手党，那，嗯哼。&lt;/p&gt;
+
+&lt;p&gt;专注的另一个方面，就是不要被杂音干扰。今天 bang 开源了 JSPatch ，于是一窝蜂涌过去，『大神好厉害，求教求教』；明天 YY 火了，一群人又围上去，『国内还有如此大牛太厉害了』。四处追星，何时学习？&lt;/p&gt;
+
+&lt;p&gt;他们是否厉害？是，确实很厉害，代码质量也很高。但是和去吹捧去羡慕去崇拜相比，更应该做的是静心做学问。不要盲目追星盲目造星盲目调侃。很多人到处问，『怎么才能学好 iOS』，『怎么才能想大牛们一样厉害啊』。连基本学习和思考的过程都没有，每天提这些问题，就像是捧着个空钱包每天问马云我什么时候才能成为百万富翁一样。&lt;/p&gt;
+
+&lt;p&gt;这是我的一点个人感想。虽然作为一名段子手，我是半个身子处于娱乐圈的人，但是作为一名软件工程师，我觉得静心做学问才是自己真正的追求。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;学习习惯&lt;/h3&gt;
+
+&lt;p&gt;学习习惯前面有聊了很多，不过是比较通用的，属于每天的学习积累。在遇到具体问题的时候还是需要具体分析：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;通读文档：不管什么技术，一定是文档优先。原因很简单：时效性和准确性。技术更新的速度很快，尤其是前端，只有官方文档才是最及时最准确的。&lt;/li&gt;
+  &lt;li&gt;善用搜索：一定要善用搜索引擎，思考怎么样才能让搜索引擎理解你想问的问题，可以多搜多对比。一定一定一定，不要用百度。&lt;/li&gt;
+  &lt;li&gt;多读代码：对于开发而言，多阅读优秀的代码。比如学 iOS 的时候就看看 ForkingDog 或者 AFNetworking ，自然而然总结一些最佳实践。&lt;/li&gt;
+  &lt;li&gt;保持交流：上面可以满足基础的学习，但是对于一些最佳实践的思考和总结，还是要多和别人交流，多看别人的分享，多和别人分享，查漏补缺。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;一专多能&lt;/h3&gt;
+
+&lt;p&gt;感觉多看一些东西多掌握一些技术对于自己的成长是很有帮助的。专攻某一项技术并不简单地意味着不去了解其他技术。&lt;/p&gt;
+
+&lt;p&gt;比如做 iOS 开发，Cocoa 的底层技术肯定需要熟悉的，但是有其他方面的技术积累。比如需要经常变动的需求或许就可以考虑用 Hybrid 的方案，比如需要做个简单的小游戏或许 Cocos2d-x 和 Unity3D 会是更好地选择，比如有天写了个脚本之后发现自动更新版本号然后打包上传发布的全自动化操作是如此的方便。而如果一直局限于『iOS 开发』这个技术领域，或许就会错过很多东西。&lt;/p&gt;
+
+&lt;p&gt;个人认为全栈是软件工程师成长之后的必然结果。但是千万不要为了全栈而全栈。比如什么『NodeJS 真好，学完之后前端工程师就能写后端了，就是全栈工程师了』，什么『快去学 React Native 啊学完就能开发客户端了就是全栈工程师了』。如果学习的目的是为了收集『全栈工程师』这个称号，那学习这件事本身就已经变了味了。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-7&quot;&gt;规划&lt;/h2&gt;
+
+&lt;p&gt;最近不少小伙伴处于对现有工作不满意，在观望的状态，我想就这方面再聊一聊。&lt;/p&gt;
+
+&lt;p&gt;找工作大概是这么几个选择：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;稳定安逸的成熟大厂，适合希望找一份稳定工作的同学们，每天十点上班，然后下午四点跑步洗澡，晚上看书参与一些翻译活动，感觉生活的很舒适。然而大厂的 KPI 考核是比较恶心的。当工作变成了演戏，那编程的乐趣便也少了许多。&lt;/li&gt;
+  &lt;li&gt;发展不错的创业公司，可以理解为半创业模式。适合有能力且想挑战一下的同学。创业公司能活下来，基本上团队质量是说得过去的。不妨去网上找一些口碑不错的创业公司，投投简历，四处聊聊，找一家投缘的留下来发展。创业公司会比较灵活一些，你的建议和想法很快能得到反馈，一定程度上来讲，合作效率也会更好。&lt;/li&gt;
+  &lt;li&gt;从零起步的创业团队，这就不多说了。除非真的是有很好的机遇和很强的创业欲望，否则还是不要考虑了。如果在犹豫要不要出来创业，或许已经不合适了。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;风险越高回报越高，天上没那么多馅饼可以掉。看准了一定要尽早做决定，不要优柔寡断。时间过的很快，等着等着就没了。&lt;/p&gt;
+
+&lt;p&gt;我对自己的定位是『工程型编程爱好者』，本身工作就是爱好，爱好就是工作。所以一直是想出来和朋友创业，除了想改变世界，另一方面也是想满足自己的理想，打造自己的技术团队，让更多的人真正体会编程的乐趣，为自己喜欢的事情做点什么。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-8&quot;&gt;人生&lt;/h2&gt;
+
+&lt;p&gt;知乎上常常有”人活着为什么要努力”,之类的问题.&lt;/p&gt;
+
+&lt;p&gt;我想起来庄子《逍遥游》里的一句话.&lt;/p&gt;
+
+&lt;p&gt;蜩与学鸠笑之曰：我决起而飞，抢榆枋，时则不至，而控于地而已矣。奚以之九万里而南为？&lt;/p&gt;
+
+&lt;p&gt;努力,是为了看到更大的世界.&lt;/p&gt;
+
+&lt;p&gt;更重要的是.&lt;/p&gt;
+
+&lt;p&gt;人生短短五十年,如梦似幻.&lt;/p&gt;
+
+&lt;p&gt;我他妈不想输.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2016 08:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2016/01/02/hello-2016/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2016/01/02/hello-2016/</guid>
+        
+        <category>活着</category>
+        
+        <category>2016</category>
+        
+        <category>北京</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Definition of End to End User Scenarios</title>
+        <description>&lt;h3 id=&quot;end-to-end&quot;&gt;End to end?&lt;/h3&gt;
+
+&lt;p&gt;To explain what is “End to End User Scenarios”, we should first explain what is “End to End”, which we can called E2E for short.&lt;/p&gt;
+
+&lt;p&gt;There is not a very clear definition of E2E in wiki.&lt;sup&gt;&lt;a href=&quot;#ref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; In dictionary, it can both refer to “throughout” or “the end of one object connect to the end of another object”.&lt;sup&gt;&lt;a href=&quot;#ref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+
+&lt;p&gt;E2E is usually used in Logistics, Computer Networking and Software Testing. For example, End-to-end testing is a methodology used to test whether the flow of an application is performing as designed from start to finish. The entire application is tested in a real-world scenario.&lt;/p&gt;
+
+&lt;p&gt;So in my view, the most essential part of E2E is that &lt;strong&gt;we must focus on the entire process, including every parts in a use case.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;user-scenarios&quot;&gt;User Scenarios!&lt;/h3&gt;
+
+&lt;p&gt;User scenarios is a common term in UX Design,&lt;sup&gt;&lt;a href=&quot;#ref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;#ref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt; which expands upon our persona and user stories by including details. It told us about users’ motivation, goals and actions on our products. &lt;/p&gt;
+
+&lt;p&gt;To make it better, there comes &lt;strong&gt;“End to End User Scenarios”, not just tell a fragment of users’ activities, but pay attention to the entire process the user undergoes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That means we should consider the whole things from the start point that user want to use our products to the ended up point that user get results and leave our products.&lt;/p&gt;
+
+&lt;p&gt;Only when we know &lt;strong&gt;who&lt;/strong&gt; does &lt;strong&gt;what&lt;/strong&gt; on our products, &lt;strong&gt;how&lt;/strong&gt; and &lt;strong&gt;why&lt;/strong&gt; they do it, can we define design requirements concrete enough to actually meet them. So it really helps us to improve our UX of our products.&lt;/p&gt;
+
+&lt;h3 id=&quot;lets-go-deeper&quot;&gt;Let’s go deeper…&lt;/h3&gt;
+
+&lt;p&gt;We just put the two terms together and give it a explanation, but it can be farther. When we truly design an experience, End to End User Scenarios can helps more:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Extend the scope&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is a interesting instance &lt;sup&gt;&lt;a href=&quot;#ref5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt; told that sometimes we are already satisfy of our designed UX, but if we look beyond the both ends of the designed experience by extending the scope of the timeline before and after… we may sadly realize that it’s a complete car crash outside the scope of the designed experience…  &lt;/p&gt;
+
+&lt;p&gt;Try to extend the scope and consider more, so can we design a much broader experience for our user.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Shorten the path&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;UX Designers always dive into a User Flow and try to shorten the user paths. The idea of End to End User Scenarios can do the same things.&lt;/p&gt;
+
+&lt;p&gt;For example, in the past, if I want to know the weather today. I should typically visit a search engine website, input and search “weather”, click the first link that search result page shows, then jump into a kind of weather website like “The Weather Channel”, and finally, I got today’s weather information!&lt;/p&gt;
+
+&lt;p&gt;But wait! &lt;strong&gt;Just consider it using “End to End User Scenarios”&lt;/strong&gt;, I just want to know about weather so I use search engine right? why should I took a so long user path to get there? Smart Search Engine should told me the weather directly.&lt;/p&gt;
+
+&lt;p&gt;That is what all search engine have doing nowadays.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-sum&quot;&gt;In sum&lt;/h3&gt;
+
+&lt;p&gt;There is many design tools like “End to End User Scenarios” were used by designers, they are really awesome. But the most essential things in my opinion is, still, always thinking about user. All this tools are powerful only based on a truly user-centric mind.&lt;/p&gt;
+
+&lt;p&gt;From my perspective, the “End to End User Scenarios” can be generally defined as &lt;strong&gt;“Entire Process Considered, User Requirement Centric, Anticipated Experince Design”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s all, thank you.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;1.&lt;a id=&quot;ref1&quot;&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/End-to-end&quot;&gt;End-to-end - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.&lt;a id=&quot;ref2&quot;&gt;&lt;a href=&quot;http://www.thefreedictionary.com/end-to-end&quot;&gt;end-to-end - definition of end-to-end by The Free Dictionary&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3.&lt;a id=&quot;ref3&quot;&gt;&lt;a href=&quot;http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/&quot;&gt;How User Scenarios Help To Improve Your UX - The Usabilla Blog&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4.&lt;a id=&quot;ref4&quot;&gt;&lt;a href=&quot;https://www.newfangled.com/how-to-tell-the-users-story/&quot;&gt;How to Create User Stories, Scenarios, and Cases&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;5.&lt;a id=&quot;ref5&quot;&gt;&lt;a href=&quot;http://www.90percentofeverything.com/2008/11/11/designing-end-to-end-user-experiences/&quot;&gt;Designing end-to-end user experiences. | 90 Percent Of Everything&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 21 Nov 2015 00:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2015/11/21/e2e_user_scenarios/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/11/21/e2e_user_scenarios/</guid>
+        
+        <category>交互设计</category>
+        
+        <category>English-only</category>
+        
+        <category>UX Design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>操作系统的浪漫主义 —— Metro 篇</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;操作系统的背后不只是冷冰冰的 0 和 1 ，数字时代的设计师们，如初神般刻画着新世界的秩序。信息、量子、宇宙，他们取世间万物为灵感来表达自己，那是它们对数字时代最浪漫的隐喻。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;前言&lt;/h2&gt;
+
+&lt;p&gt;操作系统，数字时代当之无愧的地基。当大部分从业人员都更关注它的技术与功能时，操作系统的 UI 设计师们却赋予了它无限的艺术气息：他们用充满着浪漫主义幻想色彩的设计语言，配合着物理定律般严谨的交互体系，描绘着自己心目中的数字世界，那些界面 的背后是他们对数字世界的思考、理解、期待、抽象与隐喻，&lt;strong&gt;这些艺术思想支撑着浮在表面的设计&lt;/strong&gt;。他们用一切你熟悉或不熟悉的方式，告诉世人：  &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“看呐，那个虚拟又真实的世界”&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;metro&quot;&gt;Metro&lt;/h2&gt;
+
+&lt;p&gt;我们第一个要聊的，就是 &lt;a href=&quot;http://en.wikipedia.org/wiki/Metro_(design_language\)&quot;&gt;Metro&lt;/a&gt; 。虽然它已经改名为 Modern UI ，虽然它作为 Windows Phone 、Windows 8 甚至 Windows 10 的 UI 风格算不上成功，但是作为一个设计语言，它却是声名显赫。以它而非 Windows 来命名这一章节，就是出于对它的敬意。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/in-post/post-metro-ui.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;众所周知 Metro 借鉴了交通标示语言、包豪斯现代风格与瑞士国际主义平面设计，其核心思想在于剔除多余信息，专注于内容传达（Content, not chrome），所以 Metro 采用了以 Typography、Color 为主要元素的视觉语言，另外它也非常重视动效设计（Motion Design），这是同期 UI 设计的共识，Motion provides meaning，动效对于表达隐喻有着巨大得作用。&lt;/p&gt;
+
+&lt;p&gt;我们暂且不去讨论 Metro 在实际运用中的情况，而是尝试去猜想一下 Metro 的设计师们对数字世界的思考，以及那些隐藏在 Metro 背后的奇思妙想：&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;思考 —— 极致抽象信息&lt;/h4&gt;
+
+&lt;p&gt;数字时代是基于信息的。这也是为什么我们称这个产业为 IT (Information Technology) ，我们每天使用 PC、Mobile 等数字设备、其实本质是主动或被动的接收、筛选、消化与产生信息。&lt;/p&gt;
+
+&lt;p&gt;语言与文字的发明是人类信息革命的第一个里程碑，掌握同种语言或文字的人类从此可以高效得进行信息的交换与传播。而现在我们正在走进人机交互与万物互联的时代：人类不但要和人类通信，还要和智能设备建立连接。历史总是上演着重复因此值得借鉴，为什么不把已经发明的东西在数字世界重新发明一次呢？&lt;strong&gt;于是 Cortana 承担了微软在数字时代复刻语音的使命，而 Metro 则继承了老祖宗文字的魔力。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;无论 Typography-based 还是 Content, not chrome ，&lt;strong&gt;Metro 试图对一切数字时代的信息进行一种非常极致的抽象 —— 我们的 UI 不需要来自真实世界的隐喻，我们只需要足够直接的信息。&lt;/strong&gt; 既然文字就是信息、图片就是信息、音视频就是信息，所以它们理所当然应该直接呈现；而所有的样式也都必须直接传达信息，于是网格和灰度表示层级，颜色的存在也更多代表着符号化的视觉传达：比如用于 VI 的品牌色，或者是刻板印象心情。&lt;/p&gt;
+
+&lt;p&gt;这种对信息简单粗暴的抽象使得 Metro 的首秀极具冲击，却也成为其日后发展最大的绊脚石。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;载体 —— 信息平面&lt;/h4&gt;
+
+&lt;p&gt;信息总归需要载体，而设计师们的目的就是寻找，或者创造一种介质来承载、传递、可视化这些信息，然后呈现给用户， 最后才得以成为 UI &lt;/p&gt;
+
+&lt;p&gt;我们都看着屏幕越来越趋于一种扁平的状态，所有设计师们理所当然的想到这种介质可能是一种类似平面的东西，比如说 WebOS 具有抽象意义的“卡片纸” ，或是 iOS/OS X 改变风格前使用的“亚麻桌布”，他们尝试告诉你藏在屏幕后面的数字世界，可能是由某种类似真实世界的平面状物体来承载信息的。  &lt;br /&gt;
+而 Metro 则做得更加彻底，在它看来这种拟物是强加给数字世界的不必要信息，于是它抛开了所有自然界存在的元素，又一次将信息抽象做到了极致 ：其实那就是一个单纯放置信息的平面而已，或者说，&lt;strong&gt;其实是信息组成了这个平面，数字世界的信息根本无需额外的载体——文字与图像，一方面可以看作是狭义信息的载体，另一方面也可以被看作是广义信息的一种表现形态。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;所以我们可以看到 Metro UI 的背景经常是一个空旷的黑色，其实那个黑色代表着 Nothing ，意味着这个平面的下方没有任何东西。&lt;/strong&gt;而如果你在下方使用了图像作为背景，你就会发现这其实是两个平面 —— 上层是一个背景透明、漂浮在图像层上的信息平面。而下层则是另一个完全由图像信息组成的信息平面，当我们去划动上层时，产生的视差移动也在告诉我们：这是两个层级。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/in-post/post-metro-panorama.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在所有的 Metro 组件里，我印象最深刻的叫 Panorama Panel（上图） ，Panorama 在我看来是 Metro 对信息最直接的隐喻：&lt;strong&gt;不同的信息体，聚合成了一个完整的信息平面&lt;/strong&gt;。当我们在手机屏幕上左右滑动 Panorama 时就好像在操作一个摄像机平移镜头。这种“数字报纸”区别于报纸的最大感受就好像它可以随着信息的量级在 X 轴和 Y 轴 上无限延伸下去，变成一个信息的海洋，在你的面前流动。&lt;/p&gt;
+
+&lt;p&gt;对啊，那不就是信息流吗。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;世界 —— 卡片飞舞的世界&lt;/h4&gt;
+
+&lt;p&gt;我之所以不愿称 Metro 的信息平面为纸片，是因为它不能卷曲也不能折叠；  &lt;br /&gt;
+而之所以不愿称 Metro 的信息平面为卡片，是因为它并非实体，而且尺寸无限；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;可 Metro 的世界却又让我觉得是卡片飞舞的。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一张卡片的秩序是动态磁贴（Live Tiles），它很硬，只能翻转。却又具备魔力，好像在每一次的翻转中，信息都可以得到重组和再现。  &lt;br /&gt;
+二张卡片的秩序是视差原理（Parallax），当你移动镜头时，任意两张卡片在你眼中的位移，都必须由它们距离屏幕 (Z=0) 的深度决定  &lt;br /&gt;
+三张卡片的秩序就像飞来咒，原有的平面撤离，被呼唤的卡片俏皮的翻滚着从侧后方飞进视野，Metro UI 的动画设计隐喻着一切。&lt;/p&gt;
+
+&lt;p&gt;Status Bar 和 Application Bar 就像是紧贴在屏幕上的卡片，所以不受视差影响。而 Pivot Control 则更有魔幻色彩一点，你操纵它就如操作交通枢纽，指挥一个个小的信息片，来来去去在你的面前。&lt;/p&gt;
+
+&lt;p&gt;所有这些零厚度的卡片，或近，或远，最终组成了整个 Metro 世界。&lt;strong&gt;在我的想象里，那个次元就好像，所有的信息都以片状飞在空中，而你只能看见你所需要的那些，它们有条不紊的在纵横间穿梭，就好像到处都是信息流的交通轨道，你仿佛置身于，那个数据包飞来飞去、路由器控制地址的 —— 网路世界。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/in-post/post-metro-real.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;Metro 对信息极致的抽象与压平，与同期的 iOS 6- 风格形成鲜明对比，引发大家对于数字世界与用户界面的新一轮思考，里程碑式的推动了 Flat Design 在新一代数字设计中的普及。不过我们也知道 Metro UI 在微软的实际运用中却其实不成功，这又是为什么呢？&lt;/p&gt;
+
+&lt;p&gt;笔者抛砖引玉一些自己的观点：  &lt;/p&gt;
+
+&lt;p&gt;当年 Metro 第一次运用在 Zune 身上时是非常惊艳的，风格超前、细节精致、动画细腻。再看现在的 Xbox （图一），Pivot 配合磁贴组、简单大气，几乎成为电视 UI 设计的模版。可偏偏在 PC 和 Mobile 两个场景，Metro 却饱受非议。&lt;/p&gt;
+
+&lt;p&gt;在我看来 PC 和 Mobile 其实代表着两个信息密度最高的场景、PC 是传统互联网的计算中心，而 Mobile 则是移动互联网和可以预见的未来内的个人计算中心。&lt;br /&gt;
+&lt;strong&gt;在如此复杂的场景下，其实 Metro 作为设计语言的尺度是不够的。&lt;/strong&gt;为什么这么说呢，虽然 Metro 对信息的抽象方式不无道理，但其实还是过分理想和纯粹了。有太多的屏幕像素因此被浪费，有太多其他维度的信息表达方式因此被舍弃掉了。&lt;/p&gt;
+
+&lt;p&gt;也就是说：Metro 这个设计语言本身是没有问题的，但是拿目前的它作为 PC/Mobile 这种操作系统级别的设计语言却是存在问题的。&lt;strong&gt;一个操作系统的设计语言与交互体系，一定不能太小，必须是一套包容性足够强又可被拓展和延伸的体系。&lt;/strong&gt;其实我们能看到 Windows Phone 的 UI 设计容纳度是非常低的，这或许就可以说明问题。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;这也是为什么 Win 10 for PC 和 Win 10 for Mobile 都开始削弱最初的那个纯粹的 Metro 体系，转而采用一种 Metro 的视觉语言混搭非 Metro 交互逻辑的方式来设计。&lt;/strong&gt;&lt;br /&gt;
+期待 new Metro (Metro 2.0) 能在 Win 10 上逐步走向成熟，让我们一同见证。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;本文是“操作系统的浪漫主义”系列的第一篇文章，如果您喜欢，请继续关注我的博客 ;)&lt;/p&gt;
+
+&lt;p&gt;尽请期待：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Android 篇&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;思考 —— 从卡片的层叠说起&lt;/li&gt;
+      &lt;li&gt;载体 —— 量子纸&lt;/li&gt;
+      &lt;li&gt;世界 —— 魔法材质统一世界&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS 篇&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;思考 —— 盒子里的蒸汽朋克&lt;/li&gt;
+      &lt;li&gt;载体 —— 景深的无穷近与无穷远&lt;/li&gt;
+      &lt;li&gt;世界 —— 小宇宙里的小宇宙&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 15 Nov 2015 00:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2015/11/15/os-metro/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/11/15/os-metro/</guid>
+        
+        <category>UX Design</category>
+        
+        <category>Windows</category>
+        
+        <category>Metro</category>
+        
+        <category>OS</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unix/Linux 扫盲笔记</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This document is not completed and will be updated anytime.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;catagory&quot;&gt;Catagory&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#unix&quot;&gt;Unix&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#bell-labs&quot;&gt;Bell Labs&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#xenix&quot;&gt;Xenix&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#bsd&quot;&gt;BSD&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#freebsd--apple&quot;&gt;FreeBSD &amp;amp; Apple&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#nextstep&quot;&gt;NeXTStep&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#darwin&quot;&gt;Darwin&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#posix&quot;&gt;POSIX&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#unix-like&quot;&gt;Unix-like&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#single-unix-specification&quot;&gt;Single Unix Specification&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#apple-ios&quot;&gt;Apple iOS&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#xnu-kernel&quot;&gt;XNU Kernel&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#linux&quot;&gt;Linux&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#linux-kernel&quot;&gt;Linux Kernel&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gnu-project&quot;&gt;GNU Project&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#android&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#android-kernel&quot;&gt;Android Kernel&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#android-rom&quot;&gt;Android ROM&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#chrome-os&quot;&gt;Chrome OS&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#chromium-os&quot;&gt;Chromium OS&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;unix&quot;&gt;Unix&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Unix is a &lt;strong&gt;family&lt;/strong&gt; of multitasking, multiuser computer OS.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Derive from the original &lt;strong&gt;AT&amp;amp;T Unix&lt;/strong&gt;, Developed in the 1970s at &lt;strong&gt;Bell Labs&lt;/strong&gt; (贝尔实验室), initially intended for use inside the &lt;strong&gt;Bell System&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;bell-labs&quot;&gt;Bell Labs&lt;/h4&gt;
+    &lt;p&gt;Bell 和 AT&amp;amp;A 在那时已经是一家了，可以看到那时的通信公司真是一线 IT 公司呢。 &lt;br /&gt;
+&lt;strong&gt;C 语言也是 Bell Labs 的产物&lt;/strong&gt;，从一开始就是为了用于 Unix 而设计出来的。所以 Unix （在 73 年用 C 重写）在高校流行后，C 语言也获得了广泛支持。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;AT&amp;amp;T licensed Unix to outside parties(第三方) from the late 1970s, leading to a variety of both &lt;strong&gt;academic&lt;/strong&gt; (最有有名的 BSD ) and &lt;strong&gt;commercial&lt;/strong&gt; (Microsoft Xenix, IBM AIX, SunOS Solaris)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;xenix&quot;&gt;Xenix&lt;/h4&gt;
+    &lt;p&gt;微软 1979 年从 AT&amp;amp;A 授权来的 Unix OS，配合着 x86 成为当时最受欢迎的 Unix 发行版。后来 M$ 和 IBM 合作开发 OS/2 操作系统后放弃，后来最终转向 &lt;strong&gt;Windows NT&lt;/strong&gt;。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;bsd&quot;&gt;BSD&lt;/h4&gt;
+    &lt;p&gt;&lt;strong&gt;Barkeley Software Distribution&lt;/strong&gt;, also called Berkeley Unix. Today the term “BSD” is used to refer to any of the BSD descendants(后代) which together form a branch of the family of Unix-like OS.(共同组成了一个分支)&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;BSD 最大的贡献是在 BSD 中率先增加了虚拟存储器和 Internet 协议&lt;/strong&gt;，其 TCP/IP(IPv4 only) 代码仍然在现代 OS 上使用（ Microsoft Windows and most of the foundation of Apple’s OS X and iOS ）&lt;/li&gt;
+      &lt;li&gt;BSD 后来发展出了众多开源后代，包括 FreeBSD, OpenBSD, NetBSD 等等……很多闭源的 vendor Unix 也都从 BSD 衍生而来。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;freebsd--apple&quot;&gt;FreeBSD &amp;amp; Apple&lt;/h4&gt;
+    &lt;p&gt;FreeBSD 不但是 Open Source BSD 中占有率最高的，还直接影响了 Apple Inc : NeXT Computer 的团队在 FreeBSD 上衍生出了 NeXTSTEP 操作系统，这货后来在 Apple 时期演化成了 &lt;strong&gt;Darwin&lt;/strong&gt; ，这个“达尔文”居然还是个开源系统，而且是 the Core of &lt;strong&gt;Mac OS X&lt;/strong&gt; and &lt;strong&gt;iOS&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;nextstep&quot;&gt;NeXTSTEP&lt;/h4&gt;
+    &lt;p&gt;An &lt;strong&gt;object-oriented&lt;/strong&gt;, multitasking OS. Low-level C but High-level OC language and runtime the first time, combined with an &lt;strong&gt;OO aplication layer&lt;/strong&gt; and including several “kits”.    &lt;br /&gt;
+大家都知道 NeXT 是 Steve Jobs 被 forced out of Apple 后和 a few of his coworkers 创办的，所以 &lt;strong&gt;NeXTSTEP 绝对是证明 Jobs 实力的作品。&lt;/strong&gt; &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;darwin&quot;&gt;Darwin&lt;/h4&gt;
+    &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Darwin_(operating_system\)&quot;&gt;Darwin&lt;/a&gt;, the core set of components upon which Mac OS X and iOS based, mostly POSIX compatible, but has never, by itself, been certified as being compatible with any version of &lt;strong&gt;POSIX&lt;/strong&gt;. (OS X, since Leopard, has been certified as compatible with the Single UNIX Specification version 3)  &lt;br /&gt;
+&lt;strong&gt;所以说 Mac OS X 算是很正统 Unix 的了&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;posix&quot;&gt;POSIX&lt;/h4&gt;
+    &lt;p&gt;可移植操作系统接口, Portable Operating System Interface, is a family of standards specified by the IEEE from maintaining compatibility between OS, defines the API along with Command Line Shells and utility interfaces, for software comaptibility with variants of Unix and other OS.&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Fully POSIX compliant:
+        &lt;ul&gt;
+          &lt;li&gt;OS X&lt;/li&gt;
+          &lt;li&gt;QNX OS (BlackBerry)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Mostly complicant:
+        &lt;ul&gt;
+          &lt;li&gt;Linux&lt;/li&gt;
+          &lt;li&gt;OpenBSD/FreeBSD&lt;/li&gt;
+          &lt;li&gt;Darwin (Core of &lt;strong&gt;iOS&lt;/strong&gt; &amp;amp; OS X)&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Android&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Complicant via compatibility feature （通过兼容功能实现兼容）
+        &lt;ul&gt;
+          &lt;li&gt;Windows NT Kernel
+            &lt;ul&gt;
+              &lt;li&gt;Windows Server 2000, 2003, 2008, 2008 R2, 2012&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Symbian OS (with PIPS)
+            &lt;ul&gt;
+              &lt;li&gt;Symbian was a closed-source OS.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;unix-like&quot;&gt;Unix-like&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Unix-like (sometimes referred to as UN*X or *nix) operating system is one that behaves in a manner similar to a Unix system, while not necessarily conforming to or being certified to any version of the &lt;strong&gt;Single UNIX Specification&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is no standard for defining the term.  &lt;br /&gt;
+其实 Unix-like 是个相对模糊的概念：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;最狭义的 Unix 单指 Bell Labs’s Unix &lt;/li&gt;
+  &lt;li&gt;稍广义的 Unix 指代所有 Licensed Unix, 即通过了 SUS 的 Unix-like ，比如 OS X&lt;/li&gt;
+  &lt;li&gt;最广义的 Unix 即所有 Unix-like 系统，无论它是否通过过任何 SUS，包括 Linux，BSD Family 等&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;single-unix-specification&quot;&gt;Single UNIX Specification&lt;/h4&gt;
+&lt;p&gt;The Single UNIX Specification (SUS) is the collective name of a family of standards for computer OS, compliance with which is required to &lt;strong&gt;qualify for the name “Unix”&lt;/strong&gt;, like &lt;strong&gt;POSIX&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;apple-ios&quot;&gt;Apple iOS&lt;/h4&gt;
+&lt;p&gt;iOS is a &lt;strong&gt;Unix-like OS based on Darwin(BSD)&lt;/strong&gt; and OS X, which share some frameworks including Core Foundation, Founadtion and the Darwin foundation with OS X, but, Unix-like shell access is not avaliable for users and restricted for apps, &lt;strong&gt;making iOS not fully Unix-compatible either.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The iOS kernal is &lt;strong&gt;XNU&lt;/strong&gt;, the kernal of Darwin.&lt;/p&gt;
+
+&lt;h4 id=&quot;xnu-kernel&quot;&gt;XNU Kernel&lt;/h4&gt;
+&lt;p&gt;XNU, the acronym(首字母缩写) for &lt;strong&gt;&lt;em&gt;X is Not Unix&lt;/em&gt;&lt;/strong&gt;, which is the &lt;strong&gt;Computer OS Kernel&lt;/strong&gt; developed at Apple Inc since Dec 1996 for use in the Mac OS X and released as free open source software as part of Darwin.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;linux&quot;&gt;Linux&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Linux is a Unix-like and mostly POSIX-compliant computer OS.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unix_timeline.en.svg/800px-Unix_timeline.en.svg.png&quot; alt=&quot;Unix_timeline&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;linux-kernel&quot;&gt;Linux Kernel&lt;/h4&gt;
+
+&lt;p&gt;严格来讲，术语 Linux 只表示 &lt;a href=&quot;http://en.wikipedia.org/wiki/Linux_kernel&quot;&gt;Linux Kernel&lt;/a&gt; 操作系统内核本身，比如说 Android is Based on Linux (Kernel). Linus 编写的也只是这一部分，一个免费的 Unix-like Kernel，并不属于 GNU Project 的一部分。&lt;/p&gt;
+
+&lt;p&gt;但通常把 Linux 作为 Linux Kernel 与大量配合使用的 GNU Project Software Kit (包括 Bash, Lib, Compiler, 以及后期的 GUI etc) 所组合成的 OS 的统称。（包括各类 Distribution 发行版）&lt;/p&gt;
+
+&lt;p&gt;这类操作系统也被称为 &lt;strong&gt;GNU/Linux&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;gnu-project&quot;&gt;GNU Project&lt;/h4&gt;
+
+&lt;p&gt;The GNU Project is a &lt;strong&gt;free software, mass collaboration&lt;/strong&gt; project, which based on the following freedom rights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Users are free to run the software, share (copy, distribute), study and modify it.&lt;/li&gt;
+  &lt;li&gt;GNU software guarantees these freedom-rights legally (via its license).&lt;/li&gt;
+  &lt;li&gt;So it is not only FREE but, more important, FREEDOM.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In order to ensure that the &lt;em&gt;entire&lt;/em&gt; software of a computer grants its users all freedom rights (use, share, study, modify), even the most fundamental and important part, &lt;strong&gt;the operating system&lt;/strong&gt;, needed to be written. &lt;/p&gt;
+
+&lt;p&gt;This OS is decided to called &lt;strong&gt;GNU (a recursive acronym meaning “GNU is not Unix”)&lt;/strong&gt;. By 1992, the GNU Project had completed all of the major OS components except for their kernel, &lt;em&gt;GNU Hurd&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;With the release of the third-party &lt;strong&gt;Linux Kernel&lt;/strong&gt;, started independently by &lt;em&gt;Linus Torvalds&lt;/em&gt; in 1991 and released under the GPLv0.12 in 1992, for the first time it was possible to run an OS &lt;strong&gt;composed completely of free software&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Though the Linux kernel is not part of the GNU project, it was developed using GCC and other GNU programming tools and was released as free software under the GPL.&lt;/p&gt;
+
+&lt;p&gt;Anyway, there eventually comes to the &lt;strong&gt;GNU/Linux&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;GPL&lt;/strong&gt;: GNU General Public License&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GCC&lt;/strong&gt;: GNU Compiler Collection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;其他与 GPL 相关的自由/开源软件公共许可证：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Mozilla_Public_License&quot;&gt;Mozilla Public License&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/MIT_License&quot;&gt;MIT License&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/BSD_licenses&quot;&gt;BSD Public License&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;GPL 强制后续版本必须是自由软件，而 BSD 的后续可以选择继续开源或者封闭	&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Apache_License&quot;&gt;Apache License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dl2.iteye.com/upload/attachment/0047/4142/d770c85a-49b7-3c7f-8ae2-cbb6451e00d8.png&quot; alt=&quot;Public License&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;android&quot;&gt;Android&lt;/h4&gt;
+
+&lt;p&gt;Android is a mobile OS based on &lt;strong&gt;Linux Kernel&lt;/strong&gt;, so it’s definitely &lt;strong&gt;Unix-like&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Linux is under GPL so Android has to be open source&lt;/strong&gt;. &lt;br /&gt;
+Android’s source code is released by Google under open source licenses, although most Android devices ultimately ship with a combination of open source and proprietary software, including proprietary software developed and licensed by Google &lt;em&gt;(GMS are all proprietary)&lt;/em&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;android-kernel&quot;&gt;Android Kernel&lt;/h4&gt;
+
+&lt;p&gt;Android’s kernel is based on one of the Linux kernel’s long-term support (LTS) branches.   &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Android’s variant of the Linux kernel&lt;/strong&gt; has further architectural changes that are implemented by Google outside the typical Linux kernel development cycle, and, certain features that Google contributed back to the Linux kernel. Google maintains a public code repo that contains their experimental work to re-base Android off the latest stable Linux versions.&lt;/p&gt;
+
+&lt;p&gt;Android Kernel 大概是 Linux Kernel 最得意的分支了，Android 也是 Linux 最流行的发行版。不过，也有一些 Google 工程师认为 Android is not Linux in the traditional Unix-like Linux distribution sense. 总之这类东西就算有各种协议也还是很难说清楚，在我理解里 Android Kernel 大概就是 fork Linux Kernel 之后改动和定制比较深的例子。&lt;/p&gt;
+
+&lt;h4 id=&quot;android-rom&quot;&gt;Android ROM&lt;/h4&gt;
+
+&lt;p&gt;既然提到 Android 就不得不提提 Android ROM &lt;/p&gt;
+
+&lt;p&gt;ROM 的本义实际上是只读内存：  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read-only memory&lt;/strong&gt; (ROM) is a class of storage medium used in computers and other electronic devices. Data stored in ROM can only be modified slowly, with difficulty, or not at all, so it is &lt;strong&gt;mainly used to distribute firmware (固件)&lt;/strong&gt; (software that is very closely tied to specific hardware, and unlikely to need frequent updates).&lt;/p&gt;
+
+&lt;p&gt;ROM 在发展的过程中不断进化，从只读演变成了可编程可擦除，并最终演化成了 Flash  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PROM (Programmable read-only memory)&lt;/li&gt;
+  &lt;li&gt;EPROM (Erasable programmable read-only memory)&lt;/li&gt;
+  &lt;li&gt;EEPROM (Electrically erasable programmable read-only memory)
+    &lt;ul&gt;
+      &lt;li&gt;Flash memory (闪存) &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Flash 的出现是历史性的，它不但可以作为 ROM 使用，又因其极高的读写速度和稳定性，先后发展成为U盘（USB flash drives）、移动设备主要内置存储，和虐机械硬盘几条街的固态硬盘（SSD），可以说这货基本统一了高端存储市场的技术规格。&lt;/p&gt;
+
+&lt;p&gt;所以我们平时习惯说的 ROM 其实还是来源于老单片机时代，那时的 ROM 真的是写了就很难（需要上电复位）、甚至无法修改，所以那时往 ROM 里烧下去的程序就被称作 firmware ，固件。久而久之，虽然技术发展了，固件仍然指代那些不常需要更新的软件，而 ROM 这个词也就这么沿用下来了。&lt;/p&gt;
+
+&lt;p&gt;所以在 wiki 里是没有 Android ROM 这个词条的，只有 &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_custom_Android_firmwares&quot;&gt;List of custom Android firmwares&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A custom firmware, also known as a custom ROM, ROM, or custom OS, is an aftermarket distribution of the Android operating system. They are based on the Android Open Source Project (AOSP), hence most are open-sourced releases, unlike proprietary modifications by device manufacturers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;各类 Android ROM 在 Android 词类下也都是属于 &lt;strong&gt;Forks and distributions&lt;/strong&gt; 一类的。&lt;/p&gt;
+
+&lt;p&gt;所以我说，其实各类 Android ROM 也好，fork Android 之流的 YunOS、FireOS 也好，改了多少东西，碰到多深的 codebase ……&lt;strong&gt;其实 ROM 和 Distribution OS 的界限是很模糊的&lt;/strong&gt;，为什么 Android 就不可以是移动时代的 Linux ，为什么 Devlik/ART 就不能是移动时代的 GCC 呢？&lt;/p&gt;
+
+&lt;h4 id=&quot;chrome-os&quot;&gt;Chrome OS&lt;/h4&gt;
+
+&lt;p&gt;Chrome OS is an operating system based on the &lt;strong&gt;Linux kernel&lt;/strong&gt; and designed by Google to work with web applications and installed applications. &lt;/p&gt;
+
+&lt;p&gt;虽然目前只是个 Web Thin Client OS ，但是 RoadMap 非常酷……&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Chrome Packaged Application&lt;/strong&gt; (Support working offline and installed)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Android App Runtime&lt;/strong&gt; (run Android applications natively…fxxking awesome)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;平复一下激动的心情，还是回到正题来：&lt;/p&gt;
+
+&lt;h4 id=&quot;chromium-os&quot;&gt;Chromium OS&lt;/h4&gt;
+
+&lt;p&gt;Chrome OS is based on Chromium OS, which is the open-source development version of Chrome OS, which is a &lt;strong&gt;Linux distribution&lt;/strong&gt; designed by Google.&lt;/p&gt;
+
+&lt;p&gt;For Detail, Chromium OS based on &lt;a href=&quot;http://en.wikipedia.org/wiki/Gentoo_Linux&quot;&gt;Gentoo Linux&lt;/a&gt;, emm…&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 24 Oct 2015 00:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2015/10/24/unix-linux-note/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/10/24/unix-linux-note/</guid>
+        
+        <category>OS</category>
+        
+        <category>Unix</category>
+        
+        <category>Linux</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>「知乎」如何评价 2015 年 3 月 9 日 Apple 春季发布会？</title>
+        <description>&lt;div&gt;
+    &lt;blockquote&gt;一个 gay，一个 gay-like ，带着 Apple 向着&lt;b&gt;新式奢侈品&lt;/b&gt;的方向飞去了。&lt;/blockquote&gt;
+    &lt;br /&gt;无论是 Apple Watch ，还是 new MacBook，这次发布会都象征着 Apple 更明显的转型。
+    &lt;br /&gt;
+    &lt;br /&gt;不应该再把 Apple 跟 Microsoft 简单粗暴的对比，它们的受众产生了愈大的差异。两家公司对数字时代有着完全不同的战略，它们改变世界的思路，跟盖茨-乔布斯时代比有着更巨大的分歧。
+    &lt;br /&gt;
+    &lt;br /&gt;MS 还是 MS，就像纳德拉 7 月的全员信，微软的战略还是回到了&lt;b&gt;“生产力”。&lt;/b&gt;其实微软对“极致”，对“未来”的追求是一种很直观的，我们最初理解的科技，比如手势交互、虚拟现实、机器化自动化、高效办公什么的。微软的受众更多的也还是面向生产力、工作群体（工程师、办公人员）。所以软狗们在知乎永远可以说微软 blah blah，因为对于这部分场景，微软确实有着不可替代的牛逼。
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;而 Apple 则逐渐转变成为数字时代的 LV。&lt;/b&gt;这并不是说它放弃了科技，而是“科技追求极致”的另一种可能性 —— 科技与人文的交汇，甚至是科技与时尚的跨界融合。
+    &lt;br /&gt;
+    &lt;br /&gt;让我们来稍稍想象一下未来：
+    &lt;br /&gt;
+    &lt;br /&gt;科技与生活的融合一定是越来越紧密的。更多的“物件”将与科技结合，而这些智能设备也将越来越普及，它们面向的人群，会越来越宽，直到覆盖所有人。
+    &lt;br /&gt;可以说现在的科技还是很生硬的，我们很容易把科技和 Geek、Nerd 联系在一起。当一个东西和科技沾边时，我们往往会很清楚的意识到：“哦，这是一个科技产品”，于是我们忽略了其他东西，更多的去关注它的科技性（功能性），但是未来不一样。
+    &lt;br /&gt;未来的科技将会很平常，未来的科技将会更加隐形，就像现在的眼镜、家具、衣服、箱包……普通人谁还会在乎它们背后复杂的材料科学与工艺？我们只会觉得它们是生活必需品，然后去在乎它们的外观、舒适性，挑选自己喜欢的产品。
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;科技也一样，当科技无处不在时，我们对“科技产品”本身的功能性要求，就不再是唯一的考量。&lt;/b&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;LV 的包之所以成为奢侈品，不止是因为“当它作为一个包时，它的功能性（选材、做工）非常优秀，结实耐用”，还因为它的艺术性，观赏性，精致感，幸福感，社会价值等等，带来的种种溢价。
+    &lt;br /&gt;
+    &lt;br /&gt;而 Apple Watch、new MacBook，很明显在做相同的事情。
+    &lt;br /&gt;
+    &lt;br /&gt;说到奢侈，“奢侈”这两个字，在我国基本上是贬义的，词典里的翻译是&lt;b&gt;“挥霍浪费钱财，过分追求享受”&lt;/b&gt;，但 Luxury 在英文中其实要中性许多。
+    &lt;br /&gt;
+    &lt;br /&gt;与旧式奢侈相比，新奢侈主义在这一代中产消费者中则被广泛接受。所谓新奢侈主义指的是在同类产品中服务质量更高，品位更高的产品，让消费者心驰神往。它们价格不菲，但是还不至于昂贵到可望不可即。
+    &lt;br /&gt;
+    &lt;blockquote&gt;德国的实业家拉茨勒在《奢侈带来富足》(2001)一书中对旧式奢侈和新式奢侈做过有趣的论述。他以手机为例说明了两种方式的不同：如果一部手机是因为其先进的技术和为客户提供超值的功能而使价格出众，那么生产和消费这样的手机就是需要倡导的新式奢侈；相反，如果一部手机不是因为卓越的技术性能，而是因为手机套上了嵌有钻石的黄金外壳而使得价格昂贵，那么生产和消费这样的手机就是令人憎恶的旧式奢侈。
+        &lt;br /&gt;
+    &lt;/blockquote&gt;补充一下：&lt;b&gt;这句话出自 2001 年，放在现在来看其实并不是完全适用的。&lt;/b&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;手机对当今社会的意义早已不是简单的通讯设备。真正的区别还是在那句话：“Design is about how it works”，&lt;b&gt;新式奢侈的内涵在于产品的某个设计是真的有意义，还是单纯的为了贵而贵。&lt;/b&gt;
+    &lt;br /&gt;对于当今数码产品，工业设计、艺术设计是其作为消费品非常重要的部分，如果你是为了给用户提供更多的外观选择而使用黄金，或是为了硬度使用钻石。而不是单纯的堆砌它们来增加价格，那么这些设计都是符合“新式奢侈”的内涵的。
+    &lt;br /&gt;
+    &lt;br /&gt;所以当我们回过头看看 new MacBook，私以为是&lt;b&gt;数字产品界新式奢侈品&lt;/b&gt;的典型。
+    &lt;br /&gt;
+    &lt;br /&gt;当我们吐槽 Apple 为了极致的轻薄牺牲了主频、风扇、接口，当我们吐槽买它就是买电池，当我们拿它与 MBA、MBP、Surface 对比吐槽它的 “参数/价钱比” ……
+    &lt;br /&gt;
+    &lt;br /&gt;其实人家的受众是那些有消费能力追求生活质量的 Sir or Lady，它们并不需要天天对着电脑做开发、重型办公或者打游戏，对于只需要便携安静（轻薄＋续航＋无风扇）、看看电影（Retina Display）、又希望无时不刻彰显自己的品味与身份（外观优雅＋极致设计）的他们来说，new Macbook 简直是最适合“佩戴”的轻奢品。
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;有人说 Apple Watch 简直是 Jony Ive 这个一心向往做奢侈品设计的天才将 Apple 引入了歧途里，而我却觉得&lt;b&gt;科技与时尚的结合为何就不是一件美丽的事情？&lt;/b&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;p&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 20 Oct 2015 20:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2015/10/20/apple-event-2015/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/10/20/apple-event-2015/</guid>
+        
+        <category>知乎</category>
+        
+        <category>职业病</category>
+        
+        <category>Apple</category>
+        
+        <category>Macbook</category>
+        
+        <category>Apple Watch</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello，My Blog</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;section&quot;&gt;前言&lt;/h2&gt;
 
-&lt;p&gt;Xulibao 的 Blog 就这么开通了。&lt;/p&gt;
+&lt;p&gt;我的 Blog 就这么开通了。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#build&quot;&gt;跳过废话，直接看技术实现 &lt;/a&gt; &lt;/p&gt;
 
-&lt;p&gt;2015 年，Xulibao 总算有个地方可以好好写点东西了。&lt;/p&gt;
+&lt;p&gt;2015 年，我总算有个地方可以好好写点东西了。&lt;/p&gt;
 
 &lt;p&gt;作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，一点都不极客！二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。&lt;/p&gt;
 
@@ -77,383 +829,15 @@
 &lt;p&gt;—— Libao 记于 2015.12&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 29 Dec 2015 20:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/12/29/hello-2015/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/12/29/hello-2015/</guid>
+        <pubDate>Wed, 14 Oct 2015 20:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2015/10/14/hello-2015/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2015/10/14/hello-2015/</guid>
         
         <category>活着</category>
         
         <category>2015</category>
         
         <category>北京</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>ES5, ES6, ES2016, ES.Next: JavaScript 的版本是怎么回事？「译」</title>
-        <description>&lt;p&gt;JavaScript 有着很奇怪的命名史。&lt;/p&gt;
-
-&lt;p&gt;1995 年，它作为网景浏览器（Netscape Navigator）的一部分首次发布，网景给这个新语言命名为 LiveScript。一年后，为了搭上当时媒体热炒 Java 的顺风车，临时改名为了 JavaScript &lt;em&gt;（当然，Java 和 JavaScript 的关系，就和雷锋和雷锋塔一样 —— 并没有什么关系）&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-js-version/javascript-java.jpg&quot; alt=&quot;java-javascript&quot; /&gt;&lt;br /&gt;
-&lt;small class=&quot;img-hint&quot;&gt;歪果仁的笑话怎么一点都不好笑&lt;/small&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;译者注：&lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript#History&quot;&gt;wikipedia 的 JavaScript 词条&lt;/a&gt; 更详细的叙述了这段历史&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;1996 年，网景将 JavaScript 提交给 &lt;a href=&quot;http://www.ecma-international.org/&quot;&gt;ECMA International（欧洲计算机制造商协会）&lt;/a&gt; 进行标准化，并最终确定出新的语言标准，它就是 ECMAScript。自此，ECMAScript 成为所有 JavaScript 实现的基础，不过，由于 JavaScript 名字的历史原因和市场原因（很显然 ECMAScript 这个名字并不令人喜欢……），现实中我们只用 ECMAScript 称呼标准，平时都还是使用 JavaScript 来称呼这个语言。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;术语（译者注）：&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;&lt;em&gt;标准（Standard）&lt;/em&gt;： 用于定义与其他事物区别的一套规则&lt;/li&gt;
-    &lt;li&gt;&lt;em&gt;实现（Implementation）&lt;/em&gt;： 某个标准的具体实施/真实实践&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;不过，JavaScript 开发者们并不怎么在乎这些，因为在诞生之后的 15 年里，ECMAScript 并没有多少变化，而且现实中的很多实现都已经和标准大相径庭。其实在第一版的 ECMAScript 发布后，很快又跟进发布了两个版本，但是自从 1999 年 ECMAScript 3 发布后，十年内都没有任何改动被成功添加到官方规范里。取而代之的，是各大浏览器厂商们争先进行自己的语言拓展，web 开发者们别无选择只能去尝试并且支持这些 API。即使是在 2009 年 ECMAScript 5 发布之后，仍然用了数年这些新规范才得到了浏览器的广泛支持，可是大部分开发者还是写着 ECMAScript 3 风格的代码，并不觉得有必要去了解这些规范。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;译者注：&lt;a href=&quot;https://en.wikipedia.org/wiki/ECMAScript#4th_Edition_.28abandoned.29&quot;&gt;ECMAScript 第四版草案&lt;/a&gt;由于太过激进而被抛弃，Adobe 的 &lt;a href=&quot;https://en.wikipedia.org/wiki/ActionScript&quot;&gt;ActionScript 3.0&lt;/a&gt; 是 ECMAScript edition 4 的唯一实现（ Flash 差点就统一 Web 了）&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;到了 2012 年，事情突然开始有了转变。大家开始推动停止对旧版本 IE 浏览器的支持，用 ECMAScript 5 (ES5) 风格来编写代码也变得更加可行。与此同时，一个新的 ECMAScript 规范也开始启动。到了这时，大家开始逐渐习惯以对 ECMAScript 规范的版本支持程度来形容各种 JavaScript 实现。在正式被指名为 ECMAScript 第 6 版 (ES6) 之前，这个新的标准原本被称为 ES.Harmony（和谐）。2015 年，负责制定 ECMAScript 规范草案的委员会 TC39 决定将定义新标准的制度改为一年一次，这意味着每个新特性一旦被批准就可以添加，而不像以往一样，规范只有在整个草案完成，所有特性都没问题后才能被定稿。因此，ECMAScript 第 6 版在六月份公布之前，又被重命名为了 ECMAScript 2015（ES2015）&lt;/p&gt;
-
-&lt;p&gt;目前，仍然有很多新的 JavaScript 特性或语法正在提议中，包括 &lt;a href=&quot;https://github.com/wycats/javascript-decorators&quot;&gt;decorators（装饰者）&lt;/a&gt;，&lt;a href=&quot;https://github.com/lukehoban/ecmascript-asyncawait&quot;&gt;async-await（async-await 异步编程模型）&lt;/a&gt; 和 &lt;a href=&quot;https://github.com/jeffmo/es-class-properties&quot;&gt;static class properties（静态类属性）&lt;/a&gt;。它们通常被称为 ES7，ES2016 或者 ES.Next 的特性，不过实际上它们只能被称作提案或者说可能性，毕竟 ES2016 的规范还没有完成，有可能全部都会引入，也有可能一个都没有。TC39 把一个提案分为 4 个阶段，你可以在 &lt;a href=&quot;https://babeljs.io/docs/usage/experimental/&quot;&gt;Babel 的官网&lt;/a&gt; 上查看各个提案目前都在哪个阶段了。&lt;/p&gt;
-
-&lt;p&gt;所以，我们该如何使用这一大堆术语呢？下面的列表或许能帮助到你：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;ECMAScript&lt;/strong&gt;：一个由 ECMA International 进行标准化，TC39 委员会进行监督的语言。通常用于指代标准本身。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;：ECMAScript 标准的各种实现的最常用称呼。这个术语并不局限于某个特定版本的 ECMAScript 规范，并且可能被用于任何不同程度的任意版本的 ECMAScript 的实现。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ECMAScript 5 (ES5)&lt;/strong&gt;：ECMAScript 的第五版修订，于 2009 年完成标准化。这个规范在所有现代浏览器中都相当完全的实现了。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ECMAScript 6 (ES6) / ECMAScript 2015 (ES2015)&lt;/strong&gt;：ECMAScript 的第六版修订，于 2015 年完成标准化。这个标准被部分实现于大部分现代浏览器。可以查阅&lt;a href=&quot;http://kangax.github.io/compat-table/es6/&quot;&gt;这张兼容性表&lt;/a&gt;来查看不同浏览器和工具的实现情况。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ECMAScript 2016&lt;/strong&gt;：预计的第七版 ECMAScript 修订，计划于明年夏季发布。这份规范具体将包含哪些特性还没有最终确定&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ECMAScript Proposals&lt;/strong&gt;：被考虑加入未来版本 ECMAScript 标准的特性与语法提案，他们需要经历五个阶段：Strawman（稻草人），Proposal（提议），Draft（草案），Candidate（候选）以及 Finished （完成）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在这整个 Blog 中，我将把目前的 ECMAScript 版本称作 ES6（因为这是大部分开发者最习以为常的），把明年的规范称作 ES2016（因为，与 ES6/ES2015 不同，这个名字将在整个标准化过程中沿用）并且将那些还没有成为 ECMAScript 定稿或草案的未来语言概念称为 ECMAScript 提案或者 JavaScript 提案。我将尽我所能在任何可能引起困惑的场合沿用这篇文章。&lt;/p&gt;
-
-&lt;h4 id=&quot;section&quot;&gt;一些资源&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;TC39 的 &lt;a href=&quot;https://github.com/tc39/ecma262&quot;&gt;Github 仓库&lt;/a&gt;上可以看到所有目前公开的提案&lt;/li&gt;
-  &lt;li&gt;如果你还不熟悉 ES6，Babel 有一个&lt;a href=&quot;https://babeljs.io/docs/learn-es2015/&quot;&gt;很不错的特性概览&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;如果你希望深入 ES6，这里有两本很不错的书： Axel Rauschmayer 的 &lt;a href=&quot;http://exploringjs.com/&quot;&gt;Exploring ES6&lt;/a&gt;和 Nicholas Zakas 的 &lt;a href=&quot;https://leanpub.com/understandinges6&quot;&gt;Understanding ECMAScript 6&lt;/a&gt;。Axel 的博客 &lt;a href=&quot;http://www.2ality.com/&quot;&gt;2ality&lt;/a&gt; 也是很不错的 ES6 资源&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img class=&quot;shadow&quot; width=&quot;320&quot; src=&quot;/img/in-post/post-js-version/keep-calm-and-learn-javascript.png&quot; /&gt;&lt;br /&gt;
-&lt;small class=&quot;img-hint&quot;&gt;来学 JavaScript 吧！&lt;/small&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;section-1&quot;&gt;著作权声明&lt;/h4&gt;
-
-&lt;p&gt;本文译自 &lt;a href=&quot;http://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/&quot;&gt;ES5, ES6, ES2016, ES.Next: What’s going on with JavaScript versioning?&lt;/a&gt;   &lt;br /&gt;
-译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 22 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/09/22/js-version/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/09/22/js-version/</guid>
-        
-        <category>前端开发</category>
-        
-        <category>JavaScript</category>
-        
-        <category>翻译</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>JavaScript 模块化七日谈</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;下滑这里查看更多内容&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;7月9日，我在公司内部进行了名为「JavaScript 模块化七日谈」分享，并将该 Slides 分享到了微博上。出乎意料地，这篇微博先后被 @JS小组 @尤小右 @寸志 等近 200 人转发，阅读达到 10w，获得了还不错的评价。&lt;/p&gt;
-
-&lt;p&gt;于是，我决定将它重新发到我的博客上，并为它专门制作了适用于 Keynote 展示文稿的新布局。它能自动根据屏幕大小/旋转以一定比例填充屏幕，你也可以直接点击下方链接在新页面打开，来获得更好的、沉浸式的全屏体验&lt;/p&gt;
-
-&lt;h3 id=&quot;watch-slides-httphuangxuanmejs-module-7day&quot;&gt;&lt;a href=&quot;http://huangxuan.me/js-module-7day&quot;&gt;Watch Slides →&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://huangxuan.me/js-module-7day/attach/qrcode.png&quot; width=&quot;350&quot; height=&quot;350&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;small class=&quot;img-hint&quot;&gt;你也可以通过扫描二维码在手机上观看&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;这个 Web Slides 开源在&lt;a href=&quot;https://github.com/Huxpro/js-module-7day&quot;&gt;我的 Github 上&lt;/a&gt;，欢迎你帮助我完善这个展示文稿，你可以给我提 issue，可以 fork &amp;amp; pull request。如果它能帮助到你了，希望你还能不吝啬 star 一下这个项目&lt;/p&gt;
-
-&lt;h3 id=&quot;catalog&quot;&gt;Catalog&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;第一日 上古时期 &lt;strong&gt;&lt;em&gt;Module?&lt;/em&gt;&lt;/strong&gt; 从设计模式说起&lt;/li&gt;
-  &lt;li&gt;第二日 石器时代 &lt;strong&gt;&lt;em&gt;Script Loader&lt;/em&gt;&lt;/strong&gt; 只有封装性可不够，我们还需要加载&lt;/li&gt;
-  &lt;li&gt;第三日 蒸汽朋克 &lt;strong&gt;&lt;em&gt;Module Loader&lt;/em&gt;&lt;/strong&gt; 模块化架构的工业革命&lt;/li&gt;
-  &lt;li&gt;第四日 号角吹响 &lt;strong&gt;&lt;em&gt;CommonJS&lt;/em&gt;&lt;/strong&gt; 征服世界的第一步是跳出浏览器&lt;/li&gt;
-  &lt;li&gt;第五日 双塔奇兵 &lt;strong&gt;&lt;em&gt;AMD/CMD&lt;/em&gt;&lt;/strong&gt; 浏览器环境模块化方案&lt;/li&gt;
-  &lt;li&gt;第六日 精灵宝钻 &lt;strong&gt;&lt;em&gt;Browserify/Webpack&lt;/em&gt;&lt;/strong&gt; 大势所趋，去掉这层包裹！&lt;/li&gt;
-  &lt;li&gt;第七日 王者归来 &lt;strong&gt;&lt;em&gt;ES6 Module&lt;/em&gt;&lt;/strong&gt; 最后的战役&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;thanks&quot;&gt;Thanks&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/07/09/js-module-7day/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/07/09/js-module-7day/</guid>
-        
-        <category>前端开发</category>
-        
-        <category>JavaScript</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>聊聊「阿里旅行 · 去啊」—— 行业与战略 </title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;本篇为该系列第一篇 —— 行业与战略，让我们聊聊行业、战略与格局。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;前言&lt;/h2&gt;
-
-&lt;p&gt;近几年，互联网产品从线上斗到了线下，互联网行业和传统行业的跨界融合屡见不鲜，“渗透传统行业”几乎成为了全行业下一轮创新的标配，新词“互联网+”也应运而生：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;将互联网行业的生产要素，深度融入经济、社会等各个领域，尝试改变一些传统的实体经济行业，创造出新的产品形态、商业模式和生态&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O2O 领域已经有了非常多成功的案例：从最早的千团大战，到前年打车大战，再到餐饮 O2O……传统行业被撬动的同时，无数新的市场也在被发掘：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;金融： 蚂蚁金服、芝麻信用、京东白条&lt;/li&gt;
-  &lt;li&gt;通信： 微信电话本，阿里通信&lt;/li&gt;
-  &lt;li&gt;交通： 打车、租车、专车&lt;/li&gt;
-  &lt;li&gt;地产： 二手房、租房&lt;/li&gt;
-  &lt;li&gt;医疗、家电、教育、票务……&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;当然，还有我们的在线旅游行业，BAT 纷纷入局，盛况空前。  &lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;正文&lt;/h2&gt;
-
-&lt;p&gt;历史总是现在与未来的明鉴，&lt;strong&gt;垂直领域互联网产品&lt;/strong&gt;更是与行业的历史紧密相连。想要用互联网产品解决传统行业的问题，就得先了解这个行业的发展规律，看看这个行业都经历过怎样的变革。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;传统老大：旅行社&lt;/h3&gt;
-
-&lt;p&gt;旅行社，一个耳熟能详的名字。在互联网的变革到来之前，旅游行业几乎就是旅行社的天下。&lt;/p&gt;
-
-&lt;p&gt;在行业术语里，旅行社被称为 &lt;strong&gt;TA：Travel Agency —— 旅游代理&lt;/strong&gt;。&lt;br /&gt;
-旅行社为你提供旅游信息，代理你办航班，定酒店，买门票，办签证，找导游。通过代理你的旅游消费行为，TA 从中获利。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ota&quot;&gt;第一轮革命：兴起的电商与 OTA&lt;/h3&gt;
-
-&lt;p&gt;1995 年，中国互联网沸腾元年，北京上海接入 Internet 节点。&lt;br /&gt;
-1998 年，中国互联网电商元年，第一笔在线交易产生。&lt;br /&gt;
-1999 年，马云的阿里巴巴创办。同年，旅游行业未来的两大巨头，&lt;strong&gt;携程&lt;/strong&gt;、&lt;strong&gt;艺龙&lt;/strong&gt; 双双出世。&lt;/p&gt;
-
-&lt;p&gt;携程、艺龙利用互联网的体验优势，迅速占领了 TA 的市场，它们被称作 &lt;strong&gt;OTA：Online Travel Agency&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.014.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;在他们诞生之初，其实都叫 XX旅行网。那为什么不说他们是做网站的，而说他们是做 TA 的呢？&lt;/p&gt;
-
-&lt;p&gt;这叫要引出本文涉及的第一个常见商业模式：&lt;/p&gt;
-
-&lt;h4 id=&quot;agency-&quot;&gt;Agency 模式&lt;/h4&gt;
-
-&lt;p&gt;Agency，即&lt;strong&gt;代理模式&lt;/strong&gt;。通过代理用户的消费行为，代理商就可以靠佣金的方式从中获利。&lt;br /&gt;
-举个例子：假设携程旅行网今天给某某酒店拉来了 100 个日间，那么这个酒店就要以 30元/日间 的方式给携程旅行网反多少的红利。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;佣金，说白了，就是中介费。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.016.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;了解了 Agency 模式，我们再回过来看携程、艺龙：&lt;br /&gt;
-虽然渠道改成了互联网，但其商业模式还是 TA 的那套玩法，它们其实是在和传统 TA 分同一块蛋糕。&lt;br /&gt;
-还是咨询、酒店、机票、旅游团、旅游套餐，只是&lt;strong&gt;你们在线下玩，我去线上玩了&lt;/strong&gt;，我有渠道优势。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-3&quot;&gt;第二轮革命：比价搜索与去哪儿&lt;/h3&gt;
-
-&lt;p&gt;时光飞驰到 2005 年，单纯做线下已经满足不了很多传统 TA 们了，大家纷纷向携程、艺龙学习，进攻线上，转型 OTA 。&lt;/p&gt;
-
-&lt;p&gt;就在这样的格局下，&lt;strong&gt;去哪儿&lt;/strong&gt; 横空出世，一下占据了半壁江山：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.021.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;去哪儿做了一件什么事呢，它把这些 OTA 的数据全都爬过来，做了一个&lt;strong&gt;比价平台&lt;/strong&gt;。这样，用户就可以在去哪儿的网站上看看哪家 OTA 更便宜，然后用户就去消费哪家的服务。&lt;/p&gt;
-
-&lt;p&gt;所谓“比价平台”，本质上说，就是 &lt;strong&gt;Search Engine —— 搜索引擎&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.018.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这个这个玩法一下就厉害了：&lt;br /&gt;
-&lt;strong&gt;去哪儿挡在了用户和所有 OTA 之间，OTA 还是做原来的事情，而去哪儿则拿下了用户找 OTA 的过程&lt;/strong&gt;。同是搜索引擎的百度也是如此：百度自己并不生产内容，而是拿下了用户找内容的过程。&lt;/p&gt;
-
-&lt;p&gt;Let’s why search engine awesome：因为用户在互联网的信息海洋上找信息太难了，所以用户必须要靠搜索引擎来解决这个痛点，而搜索引擎自己也就成为了渠道：&lt;/p&gt;
-
-&lt;h4 id=&quot;channel-&quot;&gt;Channel 模式&lt;/h4&gt;
-
-&lt;p&gt;Channel，即&lt;strong&gt;渠道模式&lt;/strong&gt;。通过优化用户的体验路径，在用户和 B 方之前挡了一道，主要对 B 盈利。&lt;br /&gt;
-最常见的对 B 盈利方式就是广告：&lt;strong&gt;Pay for Performance&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.019.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;简单看一眼携程和去哪儿的收入占比就可以发现：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;携程主要靠来自酒店、机票的佣金盈利&lt;/li&gt;
-  &lt;li&gt;去哪儿则主要靠 PFP 广告盈利&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.020.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;通过去哪儿的比价平台，小 OTA 开始有机会通过价格战和大 OTA 周旋。去哪儿在给予了小 OTA 机会的同时也造就了自己，这和 2003 年淘宝 C2C 的崛起，颇有异曲同工之意。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-4&quot;&gt;第 2.5 轮革命：尴尬的淘宝旅行&lt;/h3&gt;
-
-&lt;p&gt;为什么说淘宝旅行是 2.5 次革命呢，因为它想革，但没革上。&lt;br /&gt;
-为什么没有革上呢？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;首先是切入时机太晚&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;阿里其实 2010 年就开始做淘宝旅行了，一直划分在淘宝网下，由那时的淘宝北研（淘宝 UED 北京研发）团队负责，这个团队吸纳了大批雅虎中国的精英，技术水平相当高。  &lt;br /&gt;
-可是 2010 年才切入这个市场实在是太晚了，携程、去哪儿的口碑和用户习惯早都养成好几年了，没人会去你淘宝上搜航班酒店，你有大入口也没有用。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;二是资源倾斜不足&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2010 年还没有什么 &lt;strong&gt;互联网+&lt;/strong&gt; 的概念，结合传统行业也还没有现在这么热，淘宝做旅游这事用了多大力气推很难说，反正我是没听过。&lt;br /&gt;
-阿里同年的发展重心还是在其电商体系的完善上：&lt;strong&gt;淘宝商城&lt;/strong&gt; 启用独立域名，其 B2C 的模式刚好弥补了淘宝 C2C 的问题，这货就是后来的&lt;strong&gt;天猫&lt;/strong&gt;，我们可以比较一下两者在资源倾斜上的差异：&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;BU&lt;/th&gt;
-      &lt;th&gt;2008&lt;/th&gt;
-      &lt;th&gt;2010&lt;/th&gt;
-      &lt;th&gt;2011&lt;/th&gt;
-      &lt;th&gt;2012&lt;/th&gt;
-      &lt;th&gt;2013&lt;/th&gt;
-      &lt;th&gt;2014&lt;/th&gt;
-      &lt;th&gt;2015&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;天猫&lt;/td&gt;
-      &lt;td&gt;淘宝商城&lt;/td&gt;
-      &lt;td&gt;独立域名&lt;/td&gt;
-      &lt;td&gt;分拆&lt;/td&gt;
-      &lt;td&gt;更名天猫&lt;br /&gt;天猫事业部（1/7）&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;去啊&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;淘宝旅行&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;航旅事业部（1/25）&lt;/td&gt;
-      &lt;td&gt;分拆&lt;br /&gt;更名去啊&lt;/td&gt;
-      &lt;td&gt;独立域名&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;三是思路问题&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;淘宝旅行想怎么玩呢，它实际上就是想用淘宝/天猫的思路去做在线旅行，其实背后还是淘宝卖家和天猫卖家，只不过这次的商户换成 OTA 入驻了，然后大家开开心心像卖衣服一样去卖旅行产品。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.023.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;听上去很美，不但利用了阿里系的大量资源，还直接复刻了淘宝/天猫的牛逼模式 —— 平台模式&lt;/p&gt;
-
-&lt;h4 id=&quot;platform-&quot;&gt;Platform 模式&lt;/h4&gt;
-
-&lt;p&gt;Platform，即&lt;strong&gt;平台模式&lt;/strong&gt;，可以说是当今最叼的商业模式了，它相当于构建了一个完整的生态、市场环境，在这里整合买卖双方的资源。通过维护市场秩序、制定市场规则，让市场活跃，从而赚取场子费。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.026.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;想想看，每一笔交易都在你的地盘上发生，只要市场一直活跃，你就可以在其中&lt;strong&gt;双边、多边盈利&lt;/strong&gt;。什么竞价排名、广告平台、VIP 特权，盈利模式太丰富了&lt;/p&gt;
-
-&lt;p&gt;美梦做完了，回到淘宝旅行来。做平台是每个产品的梦想，肯定是对的。那么问题出在哪呢？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;太不垂直了！&lt;/strong&gt; 旅游行业，极度要求信誉：去哪儿对接的都是 B 类商家（OTA，品牌连锁酒店，直销等），从根本上就保证了产品体验。淘宝旅行的产品则充斥着大量的小旅行社、个人之类的小卖家，严重影响购买体验。你能想象预定一间酒店发现下面十几二十页的卖家，选完卖家又要跟人在旺旺上扯半个小时么？价格便宜作为唯一的优势，是以严重牺牲产品购买体验为代价的，极为得不偿失。更何况，旅游产品的受众大部分还是消费能力较强的人群，更是看重商家/产品质量而不是价格了。&lt;/p&gt;
-
-&lt;h3 id=&quot;now&quot;&gt;第三轮革命：Now&lt;/h3&gt;
-
-&lt;p&gt;OK，经过这么一番折腾，第三次变革就来了。&lt;br /&gt;
-BAT 纷纷介入，行业进入了传说中的 BATX 格局：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.028.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;阿里最近动作频频，力推去啊不说，更是收购线下酒店软件石基，配合蚂蚁金服期下芝麻信用开展“酒店信用住”等业务&lt;br /&gt;
-百度早早投资去哪儿，两个搜索引擎起家的公司风格一脉相承。同时，百度也悄悄发布了百度旅行这样的试水产品&lt;br /&gt;
-腾讯入股艺龙，同程网等，也在尝试 QQ 旅游等产品&lt;/p&gt;
-
-&lt;p&gt;Update：不过，就在 2015.5 左右，携程宣布收购艺龙，非常戏剧性的局面啊……&lt;/p&gt;
-
-&lt;p&gt;为什么都要介入呢？&lt;br /&gt;
-一是互联网结合传统行业的大潮到来，大家都发现旅游行业是一个金矿，市场其实特别大……&lt;br /&gt;
-二是这个领域确实还有很多可以突破的商业模式存在，很多细分领域都开始有创业公司起来，整个行业的生态也越来越丰富：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.029.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这种时候，BAT 这样的土豪公司就想进来收网了 —— 砸钱也得砸出个平台来！&lt;br /&gt;
-所以，这一轮游戏一定能看到一次大洗牌（艺龙第一个就阵亡了）&lt;/p&gt;
-
-&lt;p&gt;那么，这轮革命怎么演变呢？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;一是模式融合&lt;/strong&gt;，以前做 OTA 的做 OTA，做渠道的做渠道，尝试做平台的做平台。现在，大家都知道平台模式可能是更好的形态，纷纷开始进化了。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;都做 OTA，拿下各种牛逼直营，最典型的就是航班&lt;/li&gt;
-  &lt;li&gt;都做平台，尤其是质量相对比较高的 B2C 平台。然后尝试可能的 C2C 产品形态 （去啊的客栈是一个很好的尝试）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.030.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;二是思路进化&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;从单一的购买/渠道业务转向服务平台。融合周边服务，拉上细分领域，外围行业一起玩&lt;/li&gt;
-  &lt;li&gt;强调用户体验与用户留存，强调&lt;strong&gt;一站式服务&lt;/strong&gt;、&lt;strong&gt;个性化服务&lt;/strong&gt; 等更极致的产品形态&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-alitrip-pd/post-alitrip-pd.031.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;而这些演变，正是 &lt;strong&gt;阿里旅行 · 去啊&lt;/strong&gt; 致力去做到的。从大版本 5.0 开始，淘宝旅行将 &lt;strong&gt;洗心革面&lt;/strong&gt;，去追求一个更极致，更垂直，体验更优秀的产品形态。&lt;/p&gt;
-
-&lt;p&gt;让我们一起见证去啊的成长，与在线旅游行业的变革吧！&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;本篇完。&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;本文作者系前「阿里旅行 · 去啊」前端实习生，本文系业余时间学习之作。&lt;br /&gt;
-如有任何知识产权、版权问题或理论错误，还请指正。&lt;br /&gt;
-转载请注明原作者及以上信息。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Mon, 15 Jun 2015 00:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/06/15/alitrip-strategy/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/06/15/alitrip-strategy/</guid>
-        
-        <category>产品设计</category>
-        
-        <category>阿里巴巴</category>
-        
-        <category>在线旅行</category>
-        
-        <category>电子商务</category>
         
         
       </item>
@@ -774,640 +1158,140 @@ define(function(require, exports, module) {
       </item>
     
       <item>
-        <title>hUX 随想录（二）：操作系统的浪漫主义 —— Metro 篇</title>
+        <title>「知乎」对中国用户而言，Pure Android 是否比 MIUI 或 Flyme 体验更好？</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;操作系统的背后不只是冷冰冰的 0 和 1 ，数字时代的设计师们，如初神般刻画着新世界的秩序。信息、量子、宇宙，他们取世间万物为灵感来表达自己，那是它们对数字时代最浪漫的隐喻。&lt;/p&gt;
+  &lt;p&gt;这篇文章转载自&lt;a href=&quot;http://www.zhihu.com/question/25104721/answer/30108886&quot;&gt;我在知乎上的回答&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;前言&lt;/h2&gt;
-
-&lt;p&gt;操作系统，数字时代当之无愧的地基。当大部分从业人员都更关注它的技术与功能时，操作系统的 UI 设计师们却赋予了它无限的艺术气息：他们用充满着浪漫主义幻想色彩的设计语言，配合着物理定律般严谨的交互体系，描绘着自己心目中的数字世界，那些界面 的背后是他们对数字世界的思考、理解、期待、抽象与隐喻，&lt;strong&gt;这些艺术思想支撑着浮在表面的设计&lt;/strong&gt;。他们用一切你熟悉或不熟悉的方式，告诉世人：  &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“看呐，那个虚拟又真实的世界”&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;metro&quot;&gt;Metro&lt;/h2&gt;
-
-&lt;p&gt;我们第一个要聊的，就是 &lt;a href=&quot;http://en.wikipedia.org/wiki/Metro_(design_language\)&quot;&gt;Metro&lt;/a&gt; 。虽然它已经改名为 Modern UI ，虽然它作为 Windows Phone 、Windows 8 甚至 Windows 10 的 UI 风格算不上成功，但是作为一个设计语言，它却是声名显赫。以它而非 Windows 来命名这一章节，就是出于对它的敬意。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-metro-ui.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;众所周知 Metro 借鉴了交通标示语言、包豪斯现代风格与瑞士国际主义平面设计，其核心思想在于剔除多余信息，专注于内容传达（Content, not chrome），所以 Metro 采用了以 Typography、Color 为主要元素的视觉语言，另外它也非常重视动效设计（Motion Design），这是同期 UI 设计的共识，Motion provides meaning，动效对于表达隐喻有着巨大得作用。&lt;/p&gt;
-
-&lt;p&gt;我们暂且不去讨论 Metro 在实际运用中的情况，而是尝试去猜想一下 Metro 的设计师们对数字世界的思考，以及那些隐藏在 Metro 背后的奇思妙想：&lt;/p&gt;
-
-&lt;h4 id=&quot;section-1&quot;&gt;思考 —— 极致抽象信息&lt;/h4&gt;
-
-&lt;p&gt;数字时代是基于信息的。这也是为什么我们称这个产业为 IT (Information Technology) ，我们每天使用 PC、Mobile 等数字设备、其实本质是主动或被动的接收、筛选、消化与产生信息。&lt;/p&gt;
-
-&lt;p&gt;语言与文字的发明是人类信息革命的第一个里程碑，掌握同种语言或文字的人类从此可以高效得进行信息的交换与传播。而现在我们正在走进人机交互与万物互联的时代：人类不但要和人类通信，还要和智能设备建立连接。历史总是上演着重复因此值得借鉴，为什么不把已经发明的东西在数字世界重新发明一次呢？&lt;strong&gt;于是 Cortana 承担了微软在数字时代复刻语音的使命，而 Metro 则继承了老祖宗文字的魔力。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;无论 Typography-based 还是 Content, not chrome ，&lt;strong&gt;Metro 试图对一切数字时代的信息进行一种非常极致的抽象 —— 我们的 UI 不需要来自真实世界的隐喻，我们只需要足够直接的信息。&lt;/strong&gt; 既然文字就是信息、图片就是信息、音视频就是信息，所以它们理所当然应该直接呈现；而所有的样式也都必须直接传达信息，于是网格和灰度表示层级，颜色的存在也更多代表着符号化的视觉传达：比如用于 VI 的品牌色，或者是刻板印象心情。&lt;/p&gt;
-
-&lt;p&gt;这种对信息简单粗暴的抽象使得 Metro 的首秀极具冲击，却也成为其日后发展最大的绊脚石。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-2&quot;&gt;载体 —— 信息平面&lt;/h4&gt;
-
-&lt;p&gt;信息总归需要载体，而设计师们的目的就是寻找，或者创造一种介质来承载、传递、可视化这些信息，然后呈现给用户， 最后才得以成为 UI &lt;/p&gt;
-
-&lt;p&gt;我们都看着屏幕越来越趋于一种扁平的状态，所有设计师们理所当然的想到这种介质可能是一种类似平面的东西，比如说 WebOS 具有抽象意义的“卡片纸” ，或是 iOS/OS X 改变风格前使用的“亚麻桌布”，他们尝试告诉你藏在屏幕后面的数字世界，可能是由某种类似真实世界的平面状物体来承载信息的。  &lt;br /&gt;
-而 Metro 则做得更加彻底，在它看来这种拟物是强加给数字世界的不必要信息，于是它抛开了所有自然界存在的元素，又一次将信息抽象做到了极致 ：其实那就是一个单纯放置信息的平面而已，或者说，&lt;strong&gt;其实是信息组成了这个平面，数字世界的信息根本无需额外的载体——文字与图像，一方面可以看作是狭义信息的载体，另一方面也可以被看作是广义信息的一种表现形态。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;所以我们可以看到 Metro UI 的背景经常是一个空旷的黑色，其实那个黑色代表着 Nothing ，意味着这个平面的下方没有任何东西。&lt;/strong&gt;而如果你在下方使用了图像作为背景，你就会发现这其实是两个平面 —— 上层是一个背景透明、漂浮在图像层上的信息平面。而下层则是另一个完全由图像信息组成的信息平面，当我们去划动上层时，产生的视差移动也在告诉我们：这是两个层级。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-metro-panorama.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;在所有的 Metro 组件里，我印象最深刻的叫 Panorama Panel（上图） ，Panorama 在我看来是 Metro 对信息最直接的隐喻：&lt;strong&gt;不同的信息体，聚合成了一个完整的信息平面&lt;/strong&gt;。当我们在手机屏幕上左右滑动 Panorama 时就好像在操作一个摄像机平移镜头。这种“数字报纸”区别于报纸的最大感受就好像它可以随着信息的量级在 X 轴和 Y 轴 上无限延伸下去，变成一个信息的海洋，在你的面前流动。&lt;/p&gt;
-
-&lt;p&gt;对啊，那不就是信息流吗。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-3&quot;&gt;世界 —— 卡片飞舞的世界&lt;/h4&gt;
-
-&lt;p&gt;我之所以不愿称 Metro 的信息平面为纸片，是因为它不能卷曲也不能折叠；  &lt;br /&gt;
-而之所以不愿称 Metro 的信息平面为卡片，是因为它并非实体，而且尺寸无限；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;可 Metro 的世界却又让我觉得是卡片飞舞的。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;一张卡片的秩序是动态磁贴（Live Tiles），它很硬，只能翻转。却又具备魔力，好像在每一次的翻转中，信息都可以得到重组和再现。  &lt;br /&gt;
-二张卡片的秩序是视差原理（Parallax），当你移动镜头时，任意两张卡片在你眼中的位移，都必须由它们距离屏幕 (Z=0) 的深度决定  &lt;br /&gt;
-三张卡片的秩序就像飞来咒，原有的平面撤离，被呼唤的卡片俏皮的翻滚着从侧后方飞进视野，Metro UI 的动画设计隐喻着一切。&lt;/p&gt;
-
-&lt;p&gt;Status Bar 和 Application Bar 就像是紧贴在屏幕上的卡片，所以不受视差影响。而 Pivot Control 则更有魔幻色彩一点，你操纵它就如操作交通枢纽，指挥一个个小的信息片，来来去去在你的面前。&lt;/p&gt;
-
-&lt;p&gt;所有这些零厚度的卡片，或近，或远，最终组成了整个 Metro 世界。&lt;strong&gt;在我的想象里，那个次元就好像，所有的信息都以片状飞在空中，而你只能看见你所需要的那些，它们有条不紊的在纵横间穿梭，就好像到处都是信息流的交通轨道，你仿佛置身于，那个数据包飞来飞去、路由器控制地址的 —— 网路世界。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/in-post/post-metro-real.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;section-4&quot;&gt;结语&lt;/h2&gt;
-
-&lt;p&gt;Metro 对信息极致的抽象与压平，与同期的 iOS 6- 风格形成鲜明对比，引发大家对于数字世界与用户界面的新一轮思考，里程碑式的推动了 Flat Design 在新一代数字设计中的普及。不过我们也知道 Metro UI 在微软的实际运用中却其实不成功，这又是为什么呢？&lt;/p&gt;
-
-&lt;p&gt;笔者抛砖引玉一些自己的观点：  &lt;/p&gt;
-
-&lt;p&gt;当年 Metro 第一次运用在 Zune 身上时是非常惊艳的，风格超前、细节精致、动画细腻。再看现在的 Xbox （图一），Pivot 配合磁贴组、简单大气，几乎成为电视 UI 设计的模版。可偏偏在 PC 和 Mobile 两个场景，Metro 却饱受非议。&lt;/p&gt;
-
-&lt;p&gt;在我看来 PC 和 Mobile 其实代表着两个信息密度最高的场景、PC 是传统互联网的计算中心，而 Mobile 则是移动互联网和可以预见的未来内的个人计算中心。&lt;br /&gt;
-&lt;strong&gt;在如此复杂的场景下，其实 Metro 作为设计语言的尺度是不够的。&lt;/strong&gt;为什么这么说呢，虽然 Metro 对信息的抽象方式不无道理，但其实还是过分理想和纯粹了。有太多的屏幕像素因此被浪费，有太多其他维度的信息表达方式因此被舍弃掉了。&lt;/p&gt;
-
-&lt;p&gt;也就是说：Metro 这个设计语言本身是没有问题的，但是拿目前的它作为 PC/Mobile 这种操作系统级别的设计语言却是存在问题的。&lt;strong&gt;一个操作系统的设计语言与交互体系，一定不能太小，必须是一套包容性足够强又可被拓展和延伸的体系。&lt;/strong&gt;其实我们能看到 Windows Phone 的 UI 设计容纳度是非常低的，这或许就可以说明问题。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;这也是为什么 Win 10 for PC 和 Win 10 for Mobile 都开始削弱最初的那个纯粹的 Metro 体系，转而采用一种 Metro 的视觉语言混搭非 Metro 交互逻辑的方式来设计。&lt;/strong&gt;&lt;br /&gt;
-期待 new Metro (Metro 2.0) 能在 Win 10 上逐步走向成熟，让我们一同见证。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;本文是“操作系统的浪漫主义”系列的第一篇文章，如果您喜欢，请继续关注我的博客 ;)&lt;/p&gt;
-
-&lt;p&gt;尽请期待：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Android 篇&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;思考 —— 从卡片的层叠说起&lt;/li&gt;
-      &lt;li&gt;载体 —— 量子纸&lt;/li&gt;
-      &lt;li&gt;世界 —— 魔法材质统一世界&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;iOS 篇&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;思考 —— 盒子里的蒸汽朋克&lt;/li&gt;
-      &lt;li&gt;载体 —— 景深的无穷近与无穷远&lt;/li&gt;
-      &lt;li&gt;世界 —— 小宇宙里的小宇宙&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 15 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/04/15/os-metro/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/04/15/os-metro/</guid>
-        
-        <category>hUX 随想录</category>
-        
-        <category>UX Design</category>
-        
-        <category>Windows</category>
-        
-        <category>Metro</category>
-        
-        <category>OS</category>
-        
-        
-      </item>
+&lt;p&gt;哎呀～不要站队嘛。其实这是一个很有意思的题目，让我们一点点来看
+    &lt;br /&gt;
+    &lt;br /&gt;哦对，谢妖～。本人是Nexus 5用户，系统当然是Pure Android KitKat啦（臭谷粉！点Down！喂喂喂我还没给结论呢）
+    &lt;br /&gt;&lt;b&gt;毕竟是回答问题嘛，先给一个明确的答案&lt;/b&gt;：
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;否。（&lt;/b&gt;&lt;b&gt;对中国用户而言，Pure Android 并不比 MIUI 或 Flyme 体验更好。&lt;/b&gt;&lt;b&gt;）&lt;/b&gt;
     
-      <item>
-        <title>Unix/Linux 扫盲笔记</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;This document is not completed and will be updated anytime.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;catagory&quot;&gt;Catagory&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#unix&quot;&gt;Unix&lt;/a&gt;
-    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#bell-labs&quot;&gt;Bell Labs&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#xenix&quot;&gt;Xenix&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#bsd&quot;&gt;BSD&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#freebsd--apple&quot;&gt;FreeBSD &amp;amp; Apple&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#nextstep&quot;&gt;NeXTStep&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#darwin&quot;&gt;Darwin&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#posix&quot;&gt;POSIX&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#unix-like&quot;&gt;Unix-like&lt;/a&gt;
-    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#single-unix-specification&quot;&gt;Single Unix Specification&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#apple-ios&quot;&gt;Apple iOS&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#xnu-kernel&quot;&gt;XNU Kernel&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#linux&quot;&gt;Linux&lt;/a&gt;
-    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#linux-kernel&quot;&gt;Linux Kernel&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gnu-project&quot;&gt;GNU Project&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#android&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#android-kernel&quot;&gt;Android Kernel&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#android-rom&quot;&gt;Android ROM&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#chrome-os&quot;&gt;Chrome OS&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#chromium-os&quot;&gt;Chromium OS&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;unix&quot;&gt;Unix&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Unix is a &lt;strong&gt;family&lt;/strong&gt; of multitasking, multiuser computer OS.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Derive from the original &lt;strong&gt;AT&amp;amp;T Unix&lt;/strong&gt;, Developed in the 1970s at &lt;strong&gt;Bell Labs&lt;/strong&gt; (贝尔实验室), initially intended for use inside the &lt;strong&gt;Bell System&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;h4 id=&quot;bell-labs&quot;&gt;Bell Labs&lt;/h4&gt;
-    &lt;p&gt;Bell 和 AT&amp;amp;A 在那时已经是一家了，可以看到那时的通信公司真是一线 IT 公司呢。 &lt;br /&gt;
-&lt;strong&gt;C 语言也是 Bell Labs 的产物&lt;/strong&gt;，从一开始就是为了用于 Unix 而设计出来的。所以 Unix （在 73 年用 C 重写）在高校流行后，C 语言也获得了广泛支持。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;AT&amp;amp;T licensed Unix to outside parties(第三方) from the late 1970s, leading to a variety of both &lt;strong&gt;academic&lt;/strong&gt; (最有有名的 BSD ) and &lt;strong&gt;commercial&lt;/strong&gt; (Microsoft Xenix, IBM AIX, SunOS Solaris)&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;h4 id=&quot;xenix&quot;&gt;Xenix&lt;/h4&gt;
-    &lt;p&gt;微软 1979 年从 AT&amp;amp;A 授权来的 Unix OS，配合着 x86 成为当时最受欢迎的 Unix 发行版。后来 M$ 和 IBM 合作开发 OS/2 操作系统后放弃，后来最终转向 &lt;strong&gt;Windows NT&lt;/strong&gt;。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4 id=&quot;bsd&quot;&gt;BSD&lt;/h4&gt;
-    &lt;p&gt;&lt;strong&gt;Barkeley Software Distribution&lt;/strong&gt;, also called Berkeley Unix. Today the term “BSD” is used to refer to any of the BSD descendants(后代) which together form a branch of the family of Unix-like OS.(共同组成了一个分支)&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;BSD 最大的贡献是在 BSD 中率先增加了虚拟存储器和 Internet 协议&lt;/strong&gt;，其 TCP/IP(IPv4 only) 代码仍然在现代 OS 上使用（ Microsoft Windows and most of the foundation of Apple’s OS X and iOS ）&lt;/li&gt;
-      &lt;li&gt;BSD 后来发展出了众多开源后代，包括 FreeBSD, OpenBSD, NetBSD 等等……很多闭源的 vendor Unix 也都从 BSD 衍生而来。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4 id=&quot;freebsd--apple&quot;&gt;FreeBSD &amp;amp; Apple&lt;/h4&gt;
-    &lt;p&gt;FreeBSD 不但是 Open Source BSD 中占有率最高的，还直接影响了 Apple Inc : NeXT Computer 的团队在 FreeBSD 上衍生出了 NeXTSTEP 操作系统，这货后来在 Apple 时期演化成了 &lt;strong&gt;Darwin&lt;/strong&gt; ，这个“达尔文”居然还是个开源系统，而且是 the Core of &lt;strong&gt;Mac OS X&lt;/strong&gt; and &lt;strong&gt;iOS&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4 id=&quot;nextstep&quot;&gt;NeXTSTEP&lt;/h4&gt;
-    &lt;p&gt;An &lt;strong&gt;object-oriented&lt;/strong&gt;, multitasking OS. Low-level C but High-level OC language and runtime the first time, combined with an &lt;strong&gt;OO aplication layer&lt;/strong&gt; and including several “kits”.    &lt;br /&gt;
-大家都知道 NeXT 是 Steve Jobs 被 forced out of Apple 后和 a few of his coworkers 创办的，所以 &lt;strong&gt;NeXTSTEP 绝对是证明 Jobs 实力的作品。&lt;/strong&gt; &lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4 id=&quot;darwin&quot;&gt;Darwin&lt;/h4&gt;
-    &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Darwin_(operating_system\)&quot;&gt;Darwin&lt;/a&gt;, the core set of components upon which Mac OS X and iOS based, mostly POSIX compatible, but has never, by itself, been certified as being compatible with any version of &lt;strong&gt;POSIX&lt;/strong&gt;. (OS X, since Leopard, has been certified as compatible with the Single UNIX Specification version 3)  &lt;br /&gt;
-&lt;strong&gt;所以说 Mac OS X 算是很正统 Unix 的了&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4 id=&quot;posix&quot;&gt;POSIX&lt;/h4&gt;
-    &lt;p&gt;可移植操作系统接口, Portable Operating System Interface, is a family of standards specified by the IEEE from maintaining compatibility between OS, defines the API along with Command Line Shells and utility interfaces, for software comaptibility with variants of Unix and other OS.&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Fully POSIX compliant:
-        &lt;ul&gt;
-          &lt;li&gt;OS X&lt;/li&gt;
-          &lt;li&gt;QNX OS (BlackBerry)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Mostly complicant:
-        &lt;ul&gt;
-          &lt;li&gt;Linux&lt;/li&gt;
-          &lt;li&gt;OpenBSD/FreeBSD&lt;/li&gt;
-          &lt;li&gt;Darwin (Core of &lt;strong&gt;iOS&lt;/strong&gt; &amp;amp; OS X)&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Android&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Complicant via compatibility feature （通过兼容功能实现兼容）
-        &lt;ul&gt;
-          &lt;li&gt;Windows NT Kernel
-            &lt;ul&gt;
-              &lt;li&gt;Windows Server 2000, 2003, 2008, 2008 R2, 2012&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Symbian OS (with PIPS)
-            &lt;ul&gt;
-              &lt;li&gt;Symbian was a closed-source OS.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;unix-like&quot;&gt;Unix-like&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A Unix-like (sometimes referred to as UN*X or *nix) operating system is one that behaves in a manner similar to a Unix system, while not necessarily conforming to or being certified to any version of the &lt;strong&gt;Single UNIX Specification&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There is no standard for defining the term.  &lt;br /&gt;
-其实 Unix-like 是个相对模糊的概念：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;最狭义的 Unix 单指 Bell Labs’s Unix &lt;/li&gt;
-  &lt;li&gt;稍广义的 Unix 指代所有 Licensed Unix, 即通过了 SUS 的 Unix-like ，比如 OS X&lt;/li&gt;
-  &lt;li&gt;最广义的 Unix 即所有 Unix-like 系统，无论它是否通过过任何 SUS，包括 Linux，BSD Family 等&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;single-unix-specification&quot;&gt;Single UNIX Specification&lt;/h4&gt;
-&lt;p&gt;The Single UNIX Specification (SUS) is the collective name of a family of standards for computer OS, compliance with which is required to &lt;strong&gt;qualify for the name “Unix”&lt;/strong&gt;, like &lt;strong&gt;POSIX&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;apple-ios&quot;&gt;Apple iOS&lt;/h4&gt;
-&lt;p&gt;iOS is a &lt;strong&gt;Unix-like OS based on Darwin(BSD)&lt;/strong&gt; and OS X, which share some frameworks including Core Foundation, Founadtion and the Darwin foundation with OS X, but, Unix-like shell access is not avaliable for users and restricted for apps, &lt;strong&gt;making iOS not fully Unix-compatible either.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The iOS kernal is &lt;strong&gt;XNU&lt;/strong&gt;, the kernal of Darwin.&lt;/p&gt;
-
-&lt;h4 id=&quot;xnu-kernel&quot;&gt;XNU Kernel&lt;/h4&gt;
-&lt;p&gt;XNU, the acronym(首字母缩写) for &lt;strong&gt;&lt;em&gt;X is Not Unix&lt;/em&gt;&lt;/strong&gt;, which is the &lt;strong&gt;Computer OS Kernel&lt;/strong&gt; developed at Apple Inc since Dec 1996 for use in the Mac OS X and released as free open source software as part of Darwin.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;linux&quot;&gt;Linux&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Linux is a Unix-like and mostly POSIX-compliant computer OS.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unix_timeline.en.svg/800px-Unix_timeline.en.svg.png&quot; alt=&quot;Unix_timeline&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;linux-kernel&quot;&gt;Linux Kernel&lt;/h4&gt;
-
-&lt;p&gt;严格来讲，术语 Linux 只表示 &lt;a href=&quot;http://en.wikipedia.org/wiki/Linux_kernel&quot;&gt;Linux Kernel&lt;/a&gt; 操作系统内核本身，比如说 Android is Based on Linux (Kernel). Linus 编写的也只是这一部分，一个免费的 Unix-like Kernel，并不属于 GNU Project 的一部分。&lt;/p&gt;
-
-&lt;p&gt;但通常把 Linux 作为 Linux Kernel 与大量配合使用的 GNU Project Software Kit (包括 Bash, Lib, Compiler, 以及后期的 GUI etc) 所组合成的 OS 的统称。（包括各类 Distribution 发行版）&lt;/p&gt;
-
-&lt;p&gt;这类操作系统也被称为 &lt;strong&gt;GNU/Linux&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;gnu-project&quot;&gt;GNU Project&lt;/h4&gt;
-
-&lt;p&gt;The GNU Project is a &lt;strong&gt;free software, mass collaboration&lt;/strong&gt; project, which based on the following freedom rights:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Users are free to run the software, share (copy, distribute), study and modify it.&lt;/li&gt;
-  &lt;li&gt;GNU software guarantees these freedom-rights legally (via its license).&lt;/li&gt;
-  &lt;li&gt;So it is not only FREE but, more important, FREEDOM.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In order to ensure that the &lt;em&gt;entire&lt;/em&gt; software of a computer grants its users all freedom rights (use, share, study, modify), even the most fundamental and important part, &lt;strong&gt;the operating system&lt;/strong&gt;, needed to be written. &lt;/p&gt;
-
-&lt;p&gt;This OS is decided to called &lt;strong&gt;GNU (a recursive acronym meaning “GNU is not Unix”)&lt;/strong&gt;. By 1992, the GNU Project had completed all of the major OS components except for their kernel, &lt;em&gt;GNU Hurd&lt;/em&gt;. &lt;/p&gt;
-
-&lt;p&gt;With the release of the third-party &lt;strong&gt;Linux Kernel&lt;/strong&gt;, started independently by &lt;em&gt;Linus Torvalds&lt;/em&gt; in 1991 and released under the GPLv0.12 in 1992, for the first time it was possible to run an OS &lt;strong&gt;composed completely of free software&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Though the Linux kernel is not part of the GNU project, it was developed using GCC and other GNU programming tools and was released as free software under the GPL.&lt;/p&gt;
-
-&lt;p&gt;Anyway, there eventually comes to the &lt;strong&gt;GNU/Linux&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;GPL&lt;/strong&gt;: GNU General Public License&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GCC&lt;/strong&gt;: GNU Compiler Collection&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;其他与 GPL 相关的自由/开源软件公共许可证：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Mozilla_Public_License&quot;&gt;Mozilla Public License&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/MIT_License&quot;&gt;MIT License&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/BSD_licenses&quot;&gt;BSD Public License&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;GPL 强制后续版本必须是自由软件，而 BSD 的后续可以选择继续开源或者封闭	&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Apache_License&quot;&gt;Apache License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://dl2.iteye.com/upload/attachment/0047/4142/d770c85a-49b7-3c7f-8ae2-cbb6451e00d8.png&quot; alt=&quot;Public License&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;android&quot;&gt;Android&lt;/h4&gt;
-
-&lt;p&gt;Android is a mobile OS based on &lt;strong&gt;Linux Kernel&lt;/strong&gt;, so it’s definitely &lt;strong&gt;Unix-like&lt;/strong&gt;.  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Linux is under GPL so Android has to be open source&lt;/strong&gt;. &lt;br /&gt;
-Android’s source code is released by Google under open source licenses, although most Android devices ultimately ship with a combination of open source and proprietary software, including proprietary software developed and licensed by Google &lt;em&gt;(GMS are all proprietary)&lt;/em&gt;  &lt;/p&gt;
-
-&lt;h4 id=&quot;android-kernel&quot;&gt;Android Kernel&lt;/h4&gt;
-
-&lt;p&gt;Android’s kernel is based on one of the Linux kernel’s long-term support (LTS) branches.   &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Android’s variant of the Linux kernel&lt;/strong&gt; has further architectural changes that are implemented by Google outside the typical Linux kernel development cycle, and, certain features that Google contributed back to the Linux kernel. Google maintains a public code repo that contains their experimental work to re-base Android off the latest stable Linux versions.&lt;/p&gt;
-
-&lt;p&gt;Android Kernel 大概是 Linux Kernel 最得意的分支了，Android 也是 Linux 最流行的发行版。不过，也有一些 Google 工程师认为 Android is not Linux in the traditional Unix-like Linux distribution sense. 总之这类东西就算有各种协议也还是很难说清楚，在我理解里 Android Kernel 大概就是 fork Linux Kernel 之后改动和定制比较深的例子。&lt;/p&gt;
-
-&lt;h4 id=&quot;android-rom&quot;&gt;Android ROM&lt;/h4&gt;
-
-&lt;p&gt;既然提到 Android 就不得不提提 Android ROM &lt;/p&gt;
-
-&lt;p&gt;ROM 的本义实际上是只读内存：  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read-only memory&lt;/strong&gt; (ROM) is a class of storage medium used in computers and other electronic devices. Data stored in ROM can only be modified slowly, with difficulty, or not at all, so it is &lt;strong&gt;mainly used to distribute firmware (固件)&lt;/strong&gt; (software that is very closely tied to specific hardware, and unlikely to need frequent updates).&lt;/p&gt;
-
-&lt;p&gt;ROM 在发展的过程中不断进化，从只读演变成了可编程可擦除，并最终演化成了 Flash  &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PROM (Programmable read-only memory)&lt;/li&gt;
-  &lt;li&gt;EPROM (Erasable programmable read-only memory)&lt;/li&gt;
-  &lt;li&gt;EEPROM (Electrically erasable programmable read-only memory)
-    &lt;ul&gt;
-      &lt;li&gt;Flash memory (闪存) &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Flash 的出现是历史性的，它不但可以作为 ROM 使用，又因其极高的读写速度和稳定性，先后发展成为U盘（USB flash drives）、移动设备主要内置存储，和虐机械硬盘几条街的固态硬盘（SSD），可以说这货基本统一了高端存储市场的技术规格。&lt;/p&gt;
-
-&lt;p&gt;所以我们平时习惯说的 ROM 其实还是来源于老单片机时代，那时的 ROM 真的是写了就很难（需要上电复位）、甚至无法修改，所以那时往 ROM 里烧下去的程序就被称作 firmware ，固件。久而久之，虽然技术发展了，固件仍然指代那些不常需要更新的软件，而 ROM 这个词也就这么沿用下来了。&lt;/p&gt;
-
-&lt;p&gt;所以在 wiki 里是没有 Android ROM 这个词条的，只有 &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_custom_Android_firmwares&quot;&gt;List of custom Android firmwares&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A custom firmware, also known as a custom ROM, ROM, or custom OS, is an aftermarket distribution of the Android operating system. They are based on the Android Open Source Project (AOSP), hence most are open-sourced releases, unlike proprietary modifications by device manufacturers.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;各类 Android ROM 在 Android 词类下也都是属于 &lt;strong&gt;Forks and distributions&lt;/strong&gt; 一类的。&lt;/p&gt;
-
-&lt;p&gt;所以我说，其实各类 Android ROM 也好，fork Android 之流的 YunOS、FireOS 也好，改了多少东西，碰到多深的 codebase ……&lt;strong&gt;其实 ROM 和 Distribution OS 的界限是很模糊的&lt;/strong&gt;，为什么 Android 就不可以是移动时代的 Linux ，为什么 Devlik/ART 就不能是移动时代的 GCC 呢？&lt;/p&gt;
-
-&lt;h4 id=&quot;chrome-os&quot;&gt;Chrome OS&lt;/h4&gt;
-
-&lt;p&gt;Chrome OS is an operating system based on the &lt;strong&gt;Linux kernel&lt;/strong&gt; and designed by Google to work with web applications and installed applications. &lt;/p&gt;
-
-&lt;p&gt;虽然目前只是个 Web Thin Client OS ，但是 RoadMap 非常酷……&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Chrome Packaged Application&lt;/strong&gt; (Support working offline and installed)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Android App Runtime&lt;/strong&gt; (run Android applications natively…fxxking awesome)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;平复一下激动的心情，还是回到正题来：&lt;/p&gt;
-
-&lt;h4 id=&quot;chromium-os&quot;&gt;Chromium OS&lt;/h4&gt;
-
-&lt;p&gt;Chrome OS is based on Chromium OS, which is the open-source development version of Chrome OS, which is a &lt;strong&gt;Linux distribution&lt;/strong&gt; designed by Google.&lt;/p&gt;
-
-&lt;p&gt;For Detail, Chromium OS based on &lt;a href=&quot;http://en.wikipedia.org/wiki/Gentoo_Linux&quot;&gt;Gentoo Linux&lt;/a&gt;, emm…&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 14 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/04/14/unix-linux-note/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/04/14/unix-linux-note/</guid>
-        
-        <category>OS</category>
-        
-        <category>Unix</category>
-        
-        <category>Linux</category>
-        
-        
-      </item>
+    &lt;p&gt;从下面「 居然比关注数还多」的回答中，就可以看出大家都是急于站队的样子：&lt;/p&gt;
     
-      <item>
-        <title>Definition of End to End User Scenarios</title>
-        <description>&lt;h3 id=&quot;end-to-end&quot;&gt;End to end?&lt;/h3&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Google Service！翻墙很轻松好吗！Geek站过来，有品味绝逼原生阿。&lt;/li&gt;
+        &lt;li&gt;没用过Pure，国内Google能用！？本地化多重要，易用果断MIUI/Flyme 啊！（咦 米粉和魅粉居然在一致对外上达成了共识）&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;从答案我们也可以看出，中国用户的确是一个过于复杂的群体，那这个问题怎么办？
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;数学老师教过哒，分类讨论啊！&lt;/b&gt;
+    &lt;br /&gt;（来，开始认真了。注意，我只分两类，数量非常小的Geek用户，和其余都算在内的非Geek用户）
+    &lt;br /&gt;
+    &lt;br /&gt;
 
-&lt;p&gt;To explain what is “End to End User Scenarios”, we should first explain what is “End to End”, which we can called E2E for short.&lt;/p&gt;
+    &lt;p&gt;先说好理解的：&lt;/p&gt;
+    
+    &lt;ul&gt;
+        &lt;li&gt;&lt;b&gt;为什么 Geek 用户 都爱使用Pure Android？：&lt;/b&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;在国内，使用Pure Android其实是有很多障碍的：众所周知Google基本被墙死，去年还能上上的G+，Gmail 最近基本报废，回国后Google Now不开VPN永远都是Sign error或者No internet connection……那干嘛还用？
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;因为这群人是Geek呀！&lt;/b&gt;这群谷粉、安卓粉、IT科技粉、设计师、工程师们，这群充满技术情节的人儿们，为了我们的品味（逼格），挂着VPN，连着美版的Play Store，用着Android/Material Design 的 GMS，Chrome Beta，FB，Twitter，WhatsApp……就这么一路高歌的走下去了。
+    &lt;br /&gt;
+    &lt;br /&gt;你看！Action Bar ＋ Navigation Drawer 多好用！
+    &lt;br /&gt;你看！Fixed Tabs 可以滑的好吗！
+    &lt;br /&gt;你看！流畅不！ART开起来妥妥的流畅度爆iOS！
+    &lt;br /&gt;你看！原生Android 哪里会越用用卡！？你升4.4.4了吗 ？
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;哪里要担心这群人啊。&lt;/b&gt;国内买不到的Nexus，用不了GMS，这都不叫事。
+    &lt;br /&gt;
+    &lt;br /&gt;
 
-&lt;p&gt;There is not a very clear definition of E2E in wiki.&lt;sup&gt;&lt;a href=&quot;#ref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; In dictionary, it can both refer to “throughout” or “the end of one object connect to the end of another object”.&lt;sup&gt;&lt;a href=&quot;#ref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+    &lt;p&gt;那么，&lt;/p&gt;
 
-&lt;p&gt;E2E is usually used in Logistics, Computer Networking and Software Testing. For example, End-to-end testing is a methodology used to test whether the flow of an application is performing as designed from start to finish. The entire application is tested in a real-world scenario.&lt;/p&gt;
-
-&lt;p&gt;So in my view, the most essential part of E2E is that &lt;strong&gt;we must focus on the entire process, including every parts in a use case.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;user-scenarios&quot;&gt;User Scenarios!&lt;/h3&gt;
-
-&lt;p&gt;User scenarios is a common term in UX Design,&lt;sup&gt;&lt;a href=&quot;#ref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;#ref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt; which expands upon our persona and user stories by including details. It told us about users’ motivation, goals and actions on our products. &lt;/p&gt;
-
-&lt;p&gt;To make it better, there comes &lt;strong&gt;“End to End User Scenarios”, not just tell a fragment of users’ activities, but pay attention to the entire process the user undergoes.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;That means we should consider the whole things from the start point that user want to use our products to the ended up point that user get results and leave our products.&lt;/p&gt;
-
-&lt;p&gt;Only when we know &lt;strong&gt;who&lt;/strong&gt; does &lt;strong&gt;what&lt;/strong&gt; on our products, &lt;strong&gt;how&lt;/strong&gt; and &lt;strong&gt;why&lt;/strong&gt; they do it, can we define design requirements concrete enough to actually meet them. So it really helps us to improve our UX of our products.&lt;/p&gt;
-
-&lt;h3 id=&quot;lets-go-deeper&quot;&gt;Let’s go deeper…&lt;/h3&gt;
-
-&lt;p&gt;We just put the two terms together and give it a explanation, but it can be farther. When we truly design an experience, End to End User Scenarios can helps more:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Extend the scope&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There is a interesting instance &lt;sup&gt;&lt;a href=&quot;#ref5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt; told that sometimes we are already satisfy of our designed UX, but if we look beyond the both ends of the designed experience by extending the scope of the timeline before and after… we may sadly realize that it’s a complete car crash outside the scope of the designed experience…  &lt;/p&gt;
-
-&lt;p&gt;Try to extend the scope and consider more, so can we design a much broader experience for our user.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Shorten the path&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;UX Designers always dive into a User Flow and try to shorten the user paths. The idea of End to End User Scenarios can do the same things.&lt;/p&gt;
-
-&lt;p&gt;For example, in the past, if I want to know the weather today. I should typically visit a search engine website, input and search “weather”, click the first link that search result page shows, then jump into a kind of weather website like “The Weather Channel”, and finally, I got today’s weather information!&lt;/p&gt;
-
-&lt;p&gt;But wait! &lt;strong&gt;Just consider it using “End to End User Scenarios”&lt;/strong&gt;, I just want to know about weather so I use search engine right? why should I took a so long user path to get there? Smart Search Engine should told me the weather directly.&lt;/p&gt;
-
-&lt;p&gt;That is what all search engine have doing nowadays.&lt;/p&gt;
-
-&lt;h3 id=&quot;in-sum&quot;&gt;In sum&lt;/h3&gt;
-
-&lt;p&gt;There is many design tools like “End to End User Scenarios” were used by designers, they are really awesome. But the most essential things in my opinion is, still, always thinking about user. All this tools are powerful only based on a truly user-centric mind.&lt;/p&gt;
-
-&lt;p&gt;From my perspective, the “End to End User Scenarios” can be generally defined as &lt;strong&gt;“Entire Process Considered, User Requirement Centric, Anticipated Experince Design”.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;That’s all, thank you.&lt;/p&gt;
-
-&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;1.&lt;a id=&quot;ref1&quot;&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/End-to-end&quot;&gt;End-to-end - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2.&lt;a id=&quot;ref2&quot;&gt;&lt;a href=&quot;http://www.thefreedictionary.com/end-to-end&quot;&gt;end-to-end - definition of end-to-end by The Free Dictionary&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;3.&lt;a id=&quot;ref3&quot;&gt;&lt;a href=&quot;http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/&quot;&gt;How User Scenarios Help To Improve Your UX - The Usabilla Blog&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;4.&lt;a id=&quot;ref4&quot;&gt;&lt;a href=&quot;https://www.newfangled.com/how-to-tell-the-users-story/&quot;&gt;How to Create User Stories, Scenarios, and Cases&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;5.&lt;a id=&quot;ref5&quot;&gt;&lt;a href=&quot;http://www.90percentofeverything.com/2008/11/11/designing-end-to-end-user-experiences/&quot;&gt;Designing end-to-end user experiences. | 90 Percent Of Everything&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
+    &lt;ul&gt;
+        &lt;li&gt;&lt;b&gt;为什么 非Geek 用户 不适合使用Pure Android？：&lt;/b&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;GMS的问题就不多说了，妥妥是用不了，在VPN之间切换也是麻烦。
+    &lt;br /&gt;也不说Pure Android不那么好刷到的问题（当然你可以刷CM），
+    &lt;br /&gt;我们就直接来看最核心的问题：
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;「 Pure Android 的交互设计真的比 MIUI / Flyme 好吗？」&lt;br /&gt;&lt;/b&gt;
+    &lt;br /&gt;&lt;b&gt;不见得。&lt;/b&gt;
+    &lt;br /&gt;&lt;b&gt;所谓设计，第一个要考虑的就是目标用户。&lt;/b&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;为什么Pure Android的交互设计让Geek觉得用户体验好？
+    &lt;br /&gt;
+    &lt;ul&gt;
+        &lt;li&gt;国外规范的 Android Design 生态环境打造统一的 Pure Android 体验&lt;/li&gt;
+        &lt;li&gt;更高级的手势/App运用带来了很多便利（典型的例子SwipePad）&lt;/li&gt;
+        &lt;li&gt;有着工程师思想的他们可以轻易理解Android的复杂逻辑&lt;/li&gt;
+        &lt;li&gt;有着工程师思想的他们总能自己轻松躲开一些设计问题&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;而 Pure Android 之于 普通用户 呢？
+    &lt;br /&gt;&lt;b&gt;「 这些优势基本荡然无存」&lt;/b&gt;，反而，混乱的国内生态环境带来大部分中国用户对Android Design的陌生，相比iOS复杂许多的Android逻辑带来较高的学习成本……
+    &lt;br /&gt;
+    &lt;br /&gt;而MIUI/Flyme在设计方面上的本地化，主要就是出来解决这个问题的。
+    &lt;br /&gt;我们可以看到，其实MIUI/Flyme做得大部分工作，除了视觉外，就是&lt;b&gt;简化信息层级，降低交互学习成本，遮住Android系统过于复杂的部分，在易用性上向iOS靠拢&lt;/b&gt;。
+    &lt;br /&gt;
+    &lt;br /&gt;如果说在这里MIUI/Flyme还只能和Pure Android 打个平手的话……
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;MIUI 和 Flyme 的本地化还远没有完：&lt;/b&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;你在国内总要用国内的互联网服务吧？
+    &lt;br /&gt;&lt;b&gt;集成，&lt;/b&gt;我全给你全整合进来，打造一条龙服务
+    &lt;br /&gt;
+    &lt;ul&gt;
+        &lt;li&gt;应用商店
+            &lt;br /&gt;
+        &lt;/li&gt;
+        &lt;li&gt;云存储/云服务（自己提供或合作）
+            &lt;br /&gt;
+        &lt;/li&gt;
+        &lt;li&gt;数字娱乐消费（音乐/游戏/阅读/视频/主题/壁纸/铃声……）
+            &lt;br /&gt;
+        &lt;/li&gt;
+        &lt;li&gt;安全（小白最爱用的系统清理，陌生号码拦截……）
+            &lt;br /&gt;
+        &lt;/li&gt;
+        &lt;li&gt;生活服务（支付，地图，快递，订餐，打车，旅游……）
+            &lt;br /&gt;
+        &lt;/li&gt;
+        &lt;li&gt;社交（美图，快速分享……）
+            &lt;br /&gt;
+        &lt;/li&gt;
+        &lt;li&gt;太多了。总之就是你想要什么有什么，自己没有就跟大家合作呗。
+            &lt;br /&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;&lt;b&gt;不够酷？&lt;/b&gt;对大部分用户来说够酷了
+    &lt;br /&gt;
+    &lt;ul&gt;
+        &lt;li&gt;小米，平板，盒子，电视，路由……MIUI的多屏体验&lt;/li&gt;
+        &lt;li&gt;魅族，联合智能硬件，手表飞机插座……Connect to Meizu&lt;/li&gt;
+    &lt;/ul&gt;&lt;b&gt;渠道成本低（不是指价格）&lt;/b&gt;。这个其实也相当重要
+    &lt;br /&gt;
+    &lt;ul&gt;
+        &lt;li&gt;容易刷到，适配机子广，稳定。&lt;/li&gt;
+        &lt;li&gt;国内买得到，线下甚至有体验店，可以教你用呀什么的。&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;更何况，对于大部分非Geek用户，手机虽不再只是当年的通讯工具那么简单，但充其量也就是一个智能电子设备而已。&lt;b&gt;能方便快速的享受到国内主流的互联网应用与服务，完成日常的需求就足以&lt;/b&gt;。
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;MIUI/Flyme 在这方面上的成绩，是Pure Android远不能比的。&lt;/b&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;所以我的结论是：
+    &lt;br /&gt;
+    &lt;br /&gt;&lt;b&gt;对中国用户而言，Pure Android 并不比 MIUI 或 Flyme 体验更好。&lt;/b&gt;
+    &lt;br /&gt;&lt;b&gt;对大部分中国用户而言，MIUI 或 Flyme 比 &lt;/b&gt;&lt;b&gt;Pure Android 的&lt;/b&gt;&lt;b&gt;体验更好。&lt;/b&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;没啥利益相关，我又不是云OS的
+&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Mar 2015 00:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/03/31/e2e_user_scenarios/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/03/31/e2e_user_scenarios/</guid>
+        <pubDate>Thu, 04 Sep 2014 20:00:00 +0800</pubDate>
+        <link>http://devxulibao.com/2014/09/04/is-pure-android-better/</link>
+        <guid isPermaLink="true">http://devxulibao.com/2014/09/04/is-pure-android-better/</guid>
+        
+        <category>知乎</category>
         
         <category>交互设计</category>
         
-        <category>English-only</category>
-        
-        <category>UX Design</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>「知乎」如何评价 2015 年 3 月 9 日 Apple 春季发布会？</title>
-        <description>&lt;div&gt;
-    &lt;blockquote&gt;一个 gay，一个 gay-like ，带着 Apple 向着&lt;b&gt;新式奢侈品&lt;/b&gt;的方向飞去了。&lt;/blockquote&gt;
-    &lt;br /&gt;无论是 Apple Watch ，还是 new MacBook，这次发布会都象征着 Apple 更明显的转型。
-    &lt;br /&gt;
-    &lt;br /&gt;不应该再把 Apple 跟 Microsoft 简单粗暴的对比，它们的受众产生了愈大的差异。两家公司对数字时代有着完全不同的战略，它们改变世界的思路，跟盖茨-乔布斯时代比有着更巨大的分歧。
-    &lt;br /&gt;
-    &lt;br /&gt;MS 还是 MS，就像纳德拉 7 月的全员信，微软的战略还是回到了&lt;b&gt;“生产力”。&lt;/b&gt;其实微软对“极致”，对“未来”的追求是一种很直观的，我们最初理解的科技，比如手势交互、虚拟现实、机器化自动化、高效办公什么的。微软的受众更多的也还是面向生产力、工作群体（工程师、办公人员）。所以软狗们在知乎永远可以说微软 blah blah，因为对于这部分场景，微软确实有着不可替代的牛逼。
-    &lt;br /&gt;
-    &lt;br /&gt;&lt;b&gt;而 Apple 则逐渐转变成为数字时代的 LV。&lt;/b&gt;这并不是说它放弃了科技，而是“科技追求极致”的另一种可能性 —— 科技与人文的交汇，甚至是科技与时尚的跨界融合。
-    &lt;br /&gt;
-    &lt;br /&gt;让我们来稍稍想象一下未来：
-    &lt;br /&gt;
-    &lt;br /&gt;科技与生活的融合一定是越来越紧密的。更多的“物件”将与科技结合，而这些智能设备也将越来越普及，它们面向的人群，会越来越宽，直到覆盖所有人。
-    &lt;br /&gt;可以说现在的科技还是很生硬的，我们很容易把科技和 Geek、Nerd 联系在一起。当一个东西和科技沾边时，我们往往会很清楚的意识到：“哦，这是一个科技产品”，于是我们忽略了其他东西，更多的去关注它的科技性（功能性），但是未来不一样。
-    &lt;br /&gt;未来的科技将会很平常，未来的科技将会更加隐形，就像现在的眼镜、家具、衣服、箱包……普通人谁还会在乎它们背后复杂的材料科学与工艺？我们只会觉得它们是生活必需品，然后去在乎它们的外观、舒适性，挑选自己喜欢的产品。
-    &lt;br /&gt;
-    &lt;br /&gt;&lt;b&gt;科技也一样，当科技无处不在时，我们对“科技产品”本身的功能性要求，就不再是唯一的考量。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;LV 的包之所以成为奢侈品，不止是因为“当它作为一个包时，它的功能性（选材、做工）非常优秀，结实耐用”，还因为它的艺术性，观赏性，精致感，幸福感，社会价值等等，带来的种种溢价。
-    &lt;br /&gt;
-    &lt;br /&gt;而 Apple Watch、new MacBook，很明显在做相同的事情。
-    &lt;br /&gt;
-    &lt;br /&gt;说到奢侈，“奢侈”这两个字，在我国基本上是贬义的，词典里的翻译是&lt;b&gt;“挥霍浪费钱财，过分追求享受”&lt;/b&gt;，但 Luxury 在英文中其实要中性许多。
-    &lt;br /&gt;
-    &lt;br /&gt;与旧式奢侈相比，新奢侈主义在这一代中产消费者中则被广泛接受。所谓新奢侈主义指的是在同类产品中服务质量更高，品位更高的产品，让消费者心驰神往。它们价格不菲，但是还不至于昂贵到可望不可即。
-    &lt;br /&gt;
-    &lt;blockquote&gt;德国的实业家拉茨勒在《奢侈带来富足》(2001)一书中对旧式奢侈和新式奢侈做过有趣的论述。他以手机为例说明了两种方式的不同：如果一部手机是因为其先进的技术和为客户提供超值的功能而使价格出众，那么生产和消费这样的手机就是需要倡导的新式奢侈；相反，如果一部手机不是因为卓越的技术性能，而是因为手机套上了嵌有钻石的黄金外壳而使得价格昂贵，那么生产和消费这样的手机就是令人憎恶的旧式奢侈。
-        &lt;br /&gt;
-    &lt;/blockquote&gt;补充一下：&lt;b&gt;这句话出自 2001 年，放在现在来看其实并不是完全适用的。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;手机对当今社会的意义早已不是简单的通讯设备。真正的区别还是在那句话：“Design is about how it works”，&lt;b&gt;新式奢侈的内涵在于产品的某个设计是真的有意义，还是单纯的为了贵而贵。&lt;/b&gt;
-    &lt;br /&gt;对于当今数码产品，工业设计、艺术设计是其作为消费品非常重要的部分，如果你是为了给用户提供更多的外观选择而使用黄金，或是为了硬度使用钻石。而不是单纯的堆砌它们来增加价格，那么这些设计都是符合“新式奢侈”的内涵的。
-    &lt;br /&gt;
-    &lt;br /&gt;所以当我们回过头看看 new MacBook，私以为是&lt;b&gt;数字产品界新式奢侈品&lt;/b&gt;的典型。
-    &lt;br /&gt;
-    &lt;br /&gt;当我们吐槽 Apple 为了极致的轻薄牺牲了主频、风扇、接口，当我们吐槽买它就是买电池，当我们拿它与 MBA、MBP、Surface 对比吐槽它的 “参数/价钱比” ……
-    &lt;br /&gt;
-    &lt;br /&gt;其实人家的受众是那些有消费能力追求生活质量的 Sir or Lady，它们并不需要天天对着电脑做开发、重型办公或者打游戏，对于只需要便携安静（轻薄＋续航＋无风扇）、看看电影（Retina Display）、又希望无时不刻彰显自己的品味与身份（外观优雅＋极致设计）的他们来说，new Macbook 简直是最适合“佩戴”的轻奢品。
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;有人说 Apple Watch 简直是 Jony Ive 这个一心向往做奢侈品设计的天才将 Apple 引入了歧途里，而我却觉得&lt;b&gt;科技与时尚的结合为何就不是一件美丽的事情？&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 10 Mar 2015 20:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2015/03/10/apple-event-2015/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2015/03/10/apple-event-2015/</guid>
-        
-        <category>知乎</category>
-        
-        <category>职业病</category>
-        
-        <category>Apple</category>
-        
-        <category>Macbook</category>
-        
-        <category>Apple Watch</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>「知乎」如何看待微信屏蔽快的打车事件？</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;这篇文章转载自&lt;a href=&quot;http://www.zhihu.com/question/26774049/answer/35041458&quot;&gt;我在知乎上的回答&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div&gt;
-    唉。今天恰巧有感，过来小聊几句。
-    &lt;br /&gt;还是要先声明下：&lt;b&gt;所有言论出自个人，与阿里和我所在的团队无关。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;正文。
-    &lt;br /&gt;
-    &lt;br /&gt;应该很多互联网公司都有这项 “福利” ——&lt;b&gt; 加班到X点以后，报销打车费&lt;/b&gt;。
-    &lt;br /&gt;阿里大约是晚上9点。
-    &lt;br /&gt;
-    &lt;br /&gt;初进阿里时还不习惯，想着6点下班后，吃个免费晚饭，赶快坐地铁回家。
-    &lt;br /&gt;后来一是发现高峰期的地铁简直要命，二是确实有太多需求做不完， 平常经常会说： “这个我们晚上再谈…”
-    &lt;br /&gt;
-    &lt;br /&gt;所以晚上加班就成了公司里很多人的常态 ，就算今天 8 点多就已经工作得差不多了，也会习惯性得等到 9 点左右，&lt;b&gt;叫个车回家&lt;/b&gt;。
-    &lt;br /&gt;
-    &lt;br /&gt;于是，每天 9 ～ 12 点间，公司里的叫车声、电话约车声、络绎不绝。我们团队私下里也有个微信群，用以和工作的旺旺群区分。&lt;b&gt;在打车软件玩起红包返现后，大家就都会在群里分享叫车红包，52个人的群，有时一分钟内不抢，红包就没了。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;众所周知的，阿里和快的打车的关系。
-    &lt;br /&gt;
-    &lt;br /&gt;所以群里好像约定俗成般的，从来就没有出现过滴滴的红包。&lt;b&gt;而由于红包返现利滚利带来的超强用户粘性，大家连叫车也都开始只用快的了。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;img class=&quot;shadow&quot; src=&quot;/img/in-post/post-kuaidi-1.jpg&quot; width=&quot;260&quot; /&gt;
-    结果好景不长，微信突然就玩了这么一手，直接把快的打车屏蔽了。
-    &lt;br /&gt;当天大家就发现了，还讨论了下对策……&lt;b&gt;比如什么「先分享到微博，然后把链接复制出来，再发到旺旺群」……&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;嗯。我 TM 也觉得挺拼的。。
-    &lt;br /&gt;于是大约微信群就沉寂了一天…
-    &lt;br /&gt;
-    &lt;br /&gt;&lt;b&gt;然后才第二天……第一个滴滴红包就在群里出现了！&lt;/b&gt;那时的文案还是什么：“&lt;i&gt;4个小伙伴，3个用滴滴！红包召唤新伙伴归队啦！&lt;/i&gt;”
-    &lt;br /&gt;&lt;b&gt;我我我我当时就不由自主的纠结了一会儿 “价值观” ，放下手机 debug 去了……&lt;/b&gt;
-    &lt;br /&gt;&lt;b&gt;等我再想起来，点开链接一看：特么的……「红包已抢完」。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;。。。
-    &lt;br /&gt;&lt;b&gt;再后来。&lt;/b&gt;&lt;b&gt;就根本收不住了，滴滴红包那个飘。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;唉其实我就是想说：&lt;b&gt;这也就一天……用户习惯就被彻底干翻过来了。 就算是盟友…也没救。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;img class=&quot;shadow&quot; src=&quot;/img/in-post/post-kuaidi-2.jpg&quot; width=&quot;260&quot; /&gt;
-    所以我今天还是打着滴滴回来的……分享红包的一瞬间，心里突然一阵小惆怅。就回来写下了这段答案。
-    &lt;br /&gt;
-    &lt;br /&gt;说了半天，好像也没说到什么干货…权当故事听吧。
-    &lt;br /&gt;其实你要问我这有没有违反互联网平等开放法则什么的。我觉得上面 &lt;a data-hash=&quot;8f7d284bb1a97deaa4533a6190206ecb&quot; href=&quot;http://www.zhihu.com/people/8f7d284bb1a97deaa4533a6190206ecb&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@覃浩tommy&quot; data-tip=&quot;p$b$8f7d284bb1a97deaa4533a6190206ecb&quot;&gt;@覃浩tommy&lt;/a&gt;&lt;a data-hash=&quot;43d639a3d763d3dad948e0bc4c645eec&quot; href=&quot;http://www.zhihu.com/people/43d639a3d763d3dad948e0bc4c645eec&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@赛门&quot; data-tip=&quot;p$b$43d639a3d763d3dad948e0bc4c645eec&quot;&gt;@赛门&lt;/a&gt; 都说得挺好的，两种思路而已，大家可以自行选择。
-    &lt;br /&gt;
-    &lt;br /&gt;但是关于怎么看待，其实这次我以普通用户的身份来说……真心觉得：&lt;b&gt;「小良心小正义感在强需求面前真特么太弱了」&lt;/b&gt;&lt;b&gt;。&lt;/b&gt;&lt;b&gt;更何况这个强需求被干掉的同时还双手奉上了替代品。&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;&lt;b&gt;&lt;u&gt;所以大厂们你们就使劲撕逼吧，需要打到用户脸时，多给糖多给枣就好了。&lt;/u&gt;&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;哦对了，今天微信宣布朋友圈内限制分享未备案网页了。
-    &lt;br /&gt;&lt;b&gt;枣呢 ！？！？&lt;/b&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 13 Dec 2014 00:00:00 +0800</pubDate>
-        <link>http://devxulibao.com/2014/12/13/wechat-block-kuaidi/</link>
-        <guid isPermaLink="true">http://devxulibao.com/2014/12/13/wechat-block-kuaidi/</guid>
-        
-        <category>知乎</category>
-        
-        <category>职业病</category>
+        <category>Android</category>
         
         
       </item>

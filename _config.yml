@@ -75,9 +75,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "去远方同学的的博客",
-        href: "http://weibo.com/u/2807848092"
-    },{
         title: "阿萌的博客",
         href: "http://weibo.com/imengX"
     },{

@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "Hello，My Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-12-29 12:00:00
+date:       2015-10-14 12:00:00
 author:     "Libao"
 header-img: "img/post-bg-2015.jpg"
 tags:
@@ -16,13 +16,13 @@ tags:
 
 ## 前言
 
-Xulibao 的 Blog 就这么开通了。
+我的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
 
 
 
-2015 年，Xulibao 总算有个地方可以好好写点东西了。
+2015 年，我总算有个地方可以好好写点东西了。
 
 
 作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，一点都不极客！二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
